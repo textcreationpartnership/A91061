@@ -1,0 +1,1020 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands impenitencie under smiting, causing anger to continue, and the destroying hand of God to be stretched forth still. Set out in a sermon preached before the Honourable House of Commons, at a publike fast, Sept. 25. 1644. By Nicolas Proffet, late rector of Peters in Marlebrough, now Minister of Edminton, and one of the Assembly of Divines. Published by Order from that House.</title>
+            <author>Proffet, Nicolas, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91061</idno>
+            <idno type="STC">Wing P3647</idno>
+            <idno type="STC">Thomason E16_22</idno>
+            <idno type="STC">ESTC R18136</idno>
+            <idno type="EEBO-CITATION">99860354</idno>
+            <idno type="PROQUEST">99860354</idno>
+            <idno type="VID">154864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154864)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E16[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands impenitencie under smiting, causing anger to continue, and the destroying hand of God to be stretched forth still. Set out in a sermon preached before the Honourable House of Commons, at a publike fast, Sept. 25. 1644. By Nicolas Proffet, late rector of Peters in Marlebrough, now Minister of Edminton, and one of the Assembly of Divines. Published by Order from that House.</title>
+                  <author>Proffet, Nicolas, d. 1669.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Miller for Christopher Meredith at the Signe of the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: verso of 4th prelim. leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah IX, 13 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:154864:1"/>
+            <head>Die Mercurii, <hi>25.</hi> Septembr. <hi>1644.</hi>
+            </head>
+            <p>ORdered by the Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That Colonell <hi>Ven,</hi> Colonell
+<hi>Long,</hi> and Sir <hi>Robert Harley,</hi> doe from this Houſe give Thankes to Maſter
+<hi>Proffet,</hi> for the great paines he tooke in the Sermon he preached this day at the intreaty of the ſaid Commons at S. <hi>Margarets</hi> Weſtminſter, it being the day of Publike Humi<g ref="char:EOLhyphen"/>liation, and to deſire him to print his Sermon. And it is orde ed, That none ſhall preſume to print his Sermon without licence under his hand writing.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+            <postscript>
+               <p>I doe appoint <hi>Christopher Meredith</hi> to print my Sermon, </p>
+               <closer>
+                  <signed>NICOLAS PROFFET.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:154864:1" rendition="simple:additions"/>
+            <p>ENGLANDS IMPENITENCIE UNDER SMITING, Cauſing anger to continue, and the deſtroying hand of God to be ſtretched forth ſtill. Set out in a SERMON preached before the Honourable Houſe of COMMONS, at a Publike Faſt, <hi>Sept.</hi> 25. 1644.</p>
+            <p>By <hi>Nicolas Proffet,</hi> late Rector of <hi>Peters</hi> in <hi>Marlebrough,</hi> now Miniſter of <hi>Edminton,</hi> and one of the Aſſembly of DIVINES.</p>
+            <p>
+               <hi>Publiſhed by Order from that Houſe.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Jer. 9.12.</hi>
+               </bibl>
+               <p>Who is the wiſe man that may underſtand this? and who is he to whom the mouth of the Lord hath ſpoken? That he may declare it, for what the land periſheth, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Miller</hi> for <hi>Chriſtopher Meredith</hi> at the Signe of the Crane in <hi>Pauls</hi> Church-yard. 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154864:2"/>
+            <pb facs="tcp:154864:2"/>
+            <head>TO THE HONOVRABLE Houſe of COMMONS Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I underſtood you had pleaſed to deſigne mine unworthy ſelf to this weighty ſervice of preaching at your publike Faſt; Although I could not but ap<g ref="char:EOLhyphen"/>prehend it a work far above my fitneſſe, yet might I not think of flying from it with <hi>Jonah,</hi> or making objections againſt it with <hi>Moſes,</hi> for your power and his providence,<note place="margin">Brod. 3.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and 4 10, 13.</note> who is higher then the higheſt, meeting together in this appoint<g ref="char:EOLhyphen"/>ment, made it both impoſsible and unlawfull to deſert the ſer<g ref="char:EOLhyphen"/>vice. And indeed, theſe calamitous times that are come upon us doe call upon all men, to ſhew themſelves willing, if they have any hope they may be able to doe any thing for a periſhing King<g ref="char:EOLhyphen"/>dome, to uſe their beſt endeavours with all alacrity unto that end. That noble reſolution of the ſouldier ſo much commended, is moſt worthy imitation, of whom it is reported, That having lost both armes and legs in ſervices, and having nothing but the trunke of his body remaining to him: yet would needs be in the breach. If (ſaith he) I can doe no other thing, yet perhaps I may keep off a blow, or blunt the edge of ſome ſword drawne to the foyling and wounding of ſome other; although he had neither hands, nor feet, he wanted not an heart to do what he could, and ſhewed himſelf willing, when he was able to doe little; how meane ſoever our abilities are, the times will permit none to be ſilent that are called to ſpeake, nor idle who are called to work. <hi>The lion</hi> (ſaith <hi>Amos</hi>)
+<hi>hath roared, who will not feare?</hi>
+               <note place="margin">Amos. 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>the Lord hath ſpoken, who can but prophecie?</hi> I did unfeigned<g ref="char:EOLhyphen"/>ly deſire to ſpeake a word in ſeaſon, and thought no ſubject more
+<pb facs="tcp:154864:3"/>ſutable, then what might ſerve unto that end whereat you aime, which is to divert anger, and prevent utter ruine. I therefore made choice of ſuch a Scripture as did diſcover the cauſe of our continued miſeries, and ſo did direct unto the cure of this wounded and languiſhing Nation, by removing that cauſe, the great core is impenitencie under ſmiting.
+<hi>The people turn not to him that ſmiteth them:</hi> For upon the one hand there are the diviſions of <hi>Reuben,</hi> cauſing great and ſad thoughts of heart, and on the other, the ſtupidity and profanneſſe of the mul<g ref="char:EOLhyphen"/>titude which cauſeth great droopings of ſpirit; theſe things doe ſadden the hearts of the Seers, and ſervants of God, and doe fill many with feare and doubt as well as ſorrow and griefe; ſeeing how little this laſt meanes doth prevaile with either party,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hom. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> it is hard to ſay what ſin hath been forſaken of the multitude, ſince God began to ſmite the Kingdome, as farre as I can diſcerne ſome ſins are rather much increaſed then at all abated, as name<g ref="char:EOLhyphen"/>ly, that of drunkenneſſe, a ſin ſo much the more to be lamented, abhorred, and reſtrained, as it is more unſeemly in it ſelf, more unſutable with the preſent condition of the Kingdome, and more unſufferable, where reformation ſhould begins for it is (I doubt) too true which <hi>Chryſoſt.</hi> hath briefly noted of this ſin, that no<g ref="char:EOLhyphen"/>thing
+<q>is a neerer friend to the divell than it, and that it is the fountaine and mother of all other vices, that by which the Divell drew the Hebrewes of old into idolatry, &amp;c. and that which doth make ſwine of men, and men worſe than ſwine, the ſow doth wallow in the mire, and is nouriſhed with dung, but ſuch ſpread a more abominable table for themſelves, thin<g ref="char:EOLhyphen"/>king upon impure mixture and wicked loves, yea, they are as men poſseſſed with the Divell, and whereas they are the ob<g ref="char:EOLhyphen"/>ject of our pitie, theſe of our hatred, becauſe they of their owne accord bring fury and madneſſe upon themſelves, nei<g ref="char:EOLhyphen"/>ther is there any more filthy thing then a drunken woman.</q> Theſe and ſuch like paſſages he hath there and elſewhere, with many other of the antient and latter Divines, which I mention,
+<pb facs="tcp:154864:3"/>becauſe we live in ſuch times as have farre more tollerable thoughts of this ſinne which is ſo common among us, and com<g ref="char:EOLhyphen"/>mitted openly in the ſight of the Sunne, and not thought to be in the number of thoſe vices which might occaſion ſhame. It were to be wiſhed that in aſmuch as no inſtructions nor admo<g ref="char:EOLhyphen"/>nitions will worke on ſuch men, the blueneſſe of the wound might be applyed, which is a purging medicine for ſuch like evils:<note place="margin">Prov. 20.30.</note> which while they raigne there will be little hope of any thing tending to a through Reformation found in ſuch men. Now the way to turne away anger, and to ſtay the deſtroying hand, is to cauſe the people to turne to him that ſmiteth them, this (moſt noble and renowned Senatours) is that which this wounded and much weakned Kingdome calleth for at the hands of her State-Phyſitians, and being dangerouſly ſicke of her wounds, which ſeeme mortall, if they be not ſpeedily cured, ſhe cryeth unto you from all quarters of the land, as the man in the Goſpell unto Chriſt in behalfe of his ſon, which had a dumb ſpirit,<note place="margin">Mark 9.17. and 21.</note> that did of<g ref="char:EOLhyphen"/>times caſt him into the fire and water to deſtroy him. If you can doe any thing have compaſsion on us, and helpe us, This is a worke worthy your wiſeſt endeavours, if it may be, to become healers of a diſtreſſed Kingdome, unto which, if this meane piece might contribute the leaſt mite, the unworthy Author ſhould have his end in chooſing this Text, preaching and publiſhing this Sermon, which is now (although ſomewhat late) preſented to your view, ſooner it ſhould have been, but being much miſta<g ref="char:EOLhyphen"/>ken in the time of preaching it, by reaſon of the ſilence of the clock, I was conſtrained, when I did perceive I had exceeded much the bounds allotted, to paſſe over many things, and diſ-rank others which cauſed the more labour to place them right, and to ſupply ſome of thoſe I did then omit, and tranſcribe the whole, about which I have ſpent all the houres that I could ever ſince, ſpare out of thoſe publike Attendances, unto which I am tyed. I have not made any materiall addition or alteration, although
+<pb facs="tcp:154864:4"/>here and there ſomething was of neceſsity to be ſupplyed. It is now (ſuch as it is) humbly preſented unto your patronage and acceptance, whoſe it was preached and is now publiſhed. If any of you ſhall happily cast an eye upon it now printed, as you were pleaſed to lend an attentive eare unto it when it was preached (and in ſtead of blaming me for miſtaking my time, to ſhew your good acceptance of my weake endeavours) I hope it may be of ſome uſe, at leaſt to remind you of that which must ſteere your courſe in all your endeavours for the Kingdomes ſafety and Churches good, which is to remove the maine obstruction, by cauſing (if it be poſsible) that the people may turne to him that ſmiteth, which if it may but in ſome good meaſure be effected, we ſhall not need to feare or doubt the audience of our Prayers, and crowning your other endeavours with ſuch ſucceſſe as ſhall move not only them that now live and pray, but the generations to come to bleſſe and praiſe your God and theirs both with and for you; which is continually begged of God at the throne of his Grace, who is exceeding abundantly able to doe above all we aske or thinke, by</p>
+            <closer>
+               <signed>The unworthieſt of his ſer<g ref="char:EOLhyphen"/>vants and yours, N. PROFFET.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>PAge 2. line 3. read <hi>their aide.</hi> p 9. l. 21. <hi>alſo</hi> redundant. p. 11. l. 21. r. <hi>may ſeeme.</hi> p. 11. l. 22. r <hi>Concluſions.</hi> p. 12. l. 8 r. <hi>terrible approch.</hi> p. 17. l. 26. r. <hi>one.</hi> p. 20 l. 26. <hi>it</hi> redundant. p. 22. l. 31. reſolution f. <hi>reflection</hi> p. 32. l. 23. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>&amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. p. 33. in the marg. r. <hi>animi ej<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> varietate.</hi> and l. 12. obſerve f. <hi>obtaine.</hi> in the marg. r.
+<hi>timet.</hi> p. 38. l. 5. r. <hi>fill up.</hi> p. 46. l. 24. r. ſome <hi>meanes.</hi> p. 47. l. 10. r. <hi>their</hi> men. p. 44. in the marg. r. <hi>quiſqui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154864:4"/>
+            <head>A Sermon preached before the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons at the pub<g ref="char:EOLhyphen"/>like Faſt,
+<hi>Septemb.</hi> 25. 1644.</head>
+            <epigraph>
+               <bibl>
+                  <hi>JSAIAH 9.13.</hi>
+               </bibl>
+               <q>
+                  <p>— For all this his anger is not turned away, but his hand is ſtretched out ſtill.</p>
+                  <p>For the people turneth not unto him that ſmiteth them, nei<g ref="char:EOLhyphen"/>ther doe they ſeeke the Lord of Hoſtes.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the ſcope of this verſe may be better perceived, it will be neceſſary to take a ſhort view of the Chapter, in which this noble, and eloquent Pro<g ref="char:EOLhyphen"/>phet,<note place="margin">Hieron. ad Paul. &amp; Euſtach. to. <hi>3<hi rend="sup">d</hi>
+                  </hi> p. <hi>26.</hi>
+               </note> as St <hi>Hirome</hi> ſtiles him, of whom he further ſaith, in the ſame place, <hi>non tam Propheta quam E<g ref="char:EOLhyphen"/>vangeliſta dicendus ſit,</hi> he is rather to be called an Evangeliſt then a Prophet. Doth notwithſtanding here, (as in other places) mingle wine with oyle, Law with Goſpell, Comminations with Conſolations. For (as <hi>David Pſal.</hi> 101.) doth ſing, ſo he doth preach and propheſie mercy and judgement. Yet he be<g ref="char:EOLhyphen"/>ginneth w<hi rend="sup">th</hi> comfort &amp; goes on with terror, fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>verſe</hi> 1 unto the 8 he is full of comfort, a ſon of conſolation, but in the reſt <hi>Boaner<g ref="char:EOLhyphen"/>ges,</hi> a ſon of thunder; In that former part of the Chapter he ſets himſelfe to comfort (according unto ſome) the good party of the Iſraelites, both againſt former, and future menaces of wrath, judgement and ruine, of which they had heard very heavy bur<g ref="char:EOLhyphen"/>thens before, and were now to heare more and heavier hereaf<g ref="char:EOLhyphen"/>ter, ſuch as ſhould not only cruſh, and bruiſe, but breake, and ruine the ſtate and Kingdome; The Godly hearing this might quake, faint and ſinke, if not deſpaire, if ſome cordiall were not firſt given for their comfort and ſupport.</p>
+            <p>Or (as ſome others thinke) the Prophet doth endeavour here<g ref="char:EOLhyphen"/>by
+<pb n="2" facs="tcp:154864:5"/>by to comfort <hi>Iudah,</hi> at this time in a very ſad condition, great<g ref="char:EOLhyphen"/>ly weakened by warre; for <hi>Iſrael,</hi> that is, the ten tribes had war<g ref="char:EOLhyphen"/>red againſt them, and now obtained in unto them aide, the King of <hi>Aſſiria:</hi> who was a potent, and mighty Prince; by whoſe helpe they made no doubt but they ſhould extirpate the royall ſtock and wholy ſubdue <hi>Judah</hi> and bring them into perpetuall ſubjection. Now againſt them the Prophet ſets himſelfe to comfort <hi>Judah.</hi>
+            </p>
+            <p>The comfort wherewith he doth endeavour to ſupport them, is drawne out of the well of conſolation, he giveth them of the water of <hi>Shiloah,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8.6.</note> the promiſes of the Goſpel and free grace through Chriſt. As you may further perceive by comparing what you here reade with
+<hi>Math.</hi> 4.14.</p>
+            <p>Then in the 8 <hi rend="sup">h</hi> verſe, the Prophet beginneth (as divers inter<g ref="char:EOLhyphen"/>preters have obſerved) a new ſermon ſure it is, he doth change his voice. for as there he was promiſing grace, ſo here he is me<g ref="char:EOLhyphen"/>nacing wrath.</p>
+            <p>In this part we may obſerve, how having to doe with a ſecure, proud, pertinacious and incredulous people, that made but little account and ſet very light by the menaces of their Prophets, he doth firſt ſet downe the certainty and authority of theſe commi<g ref="char:EOLhyphen"/>nations, aſſuring them that they ſhould undoubtedly come to paſſe and they ſhould ſurely feele them. <hi>ver.</hi> 8.</p>
+            <p>And howſoever they out of pride and confidence, did ſeeme altogether to ſlight them, uſing a proverbiall kind of ſpeech which did imply as much <hi>ver.</hi> 10. for by it they intimate, that what they loſt in overthrowes and ruines ſhould be recovered, raiſed and repaired in greater ſplendor and glory then before. Yet they, even all the people ſhould know, that God who is true of his Word had foretold as much, and ſhould aſſuredly make it good.</p>
+            <p n="2">2 As he ſetteth downe the authority, and certainty, ſo he ſets downe the time, manner and meanes, ſhewing how puniſh<g ref="char:EOLhyphen"/>ment and ruine ſhould be brought upon them.
+<hi>viz.</hi> the Lord would ſet up the adver faries of <hi>Rezin</hi> againſt him and joyne his enemies together, and then the <hi>Syrians</hi> before and <hi>Philiſtines</hi> be<g ref="char:EOLhyphen"/>hinde, and they ſhould devoure <hi>Iſrael</hi> with open mouth <hi>ver.</hi> 11, 12. <hi>i. e. Their enemies being inraged ſhould riſe up againſt them on every ſide, and make a prey of them like wild beaſts, rather then rea<g ref="char:EOLhyphen"/>ſonable men.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:154864:5"/>Now whereas ſecure and obſtinate men are wont to thinke, it will be but a ſtorme at the moſt, after which they ſhould have a calme, for being over and God pacified they ſhould be ſafe, and free from further feare and puniſhment, for they having ſuffered ſome ſtroakes, uſually grow more hard and obſtinate then before, and promiſe themſelves greater freedome and take grea<g ref="char:EOLhyphen"/>ter liberty in ſinne. The Prophet therefore lets them know that the Lord hath not ſhot all his ſhafts, neither is he pacified, <hi>but his anger doth continue, and his hand is ſtretched forth still.</hi> In which words he doth repreſent God unto them in the habite and poſ<g ref="char:EOLhyphen"/>ture of an angry man, a mighty man that is wrath, who had bin ſmiting heavy ſtroakes, and yet by <hi>his countenance and hand ſtret<g ref="char:EOLhyphen"/>ched foorth ſtill</hi> to ſtrike, doth ſhew himſelfe notwithſtanding the blowes already given to be no leſſe angry then before. Neither are they ſafe (as they verily imagine) but ſtill more and heavier ſtroakes hang over their heads which they ſhall by no meanes e<g ref="char:EOLhyphen"/>ſcape. Now whereas this might ſeeme ſtrange, that the Lord ſhould be ſo exceedingly moved againſt his people, that the cauſe might be knowne and God juſtified in his judgement; the words of the Text are added, ſo as if any make queſtion or deſire ſatisfaction concerning this continuance of his ſmiting and anger againſt <hi>Iſrael,</hi> he may hereby underſtand there is cauſe enough.</p>
+            <p>
+               <hi>For the people turneth not unto him that ſmiteth them,</hi> although they have bin grievouſly ſmitten, to the end they might returne <hi>and ſeeke the Lord of Hoſtes,</hi> yet they are ſo obſtinate and ſo im<g ref="char:EOLhyphen"/>penitent and pertinacious, as they will not for all that returne, but doe more provoke the wrath of God againſt them.</p>
+            <p>The word tranſlated (for) being <hi>Vau</hi> in <hi>Hebrew,</hi> doth properly ſignifie (And) but is variouſly uſed and (as ſome Gramarians have obſerved) in well neere 40 ſeverall ſignifications, and ſome<g ref="char:EOLhyphen"/>times is cauſall and doth ſignify for, or becauſe.</p>
+            <p>And in this place the moſt interpretors take it as cauſall and not copulative, and being ſo taken, you ſee the words ſhew the cauſe why the Lord would not take off his heavy hand,
+<hi>nor turne away his wrath from Iſrael.</hi> Namely becauſe the people were ſoe ſtubborne and ſhameleſſe as they would by no meanes be brought to repentance and converſion, and therefore it was moſt juſt and equall, that the Lord ſhould not give them over, and as it were
+<pb n="4" facs="tcp:154864:6"/>give place and way unto them in their wickednes, but as they went on in ſinning, ſo he ſhould goe on in ſmiting them ſtill, un<g ref="char:EOLhyphen"/>till at length they were utterly deſtroyed.</p>
+            <p>So that theſe words are not ſo much a prediction, as a commi<g ref="char:EOLhyphen"/>nation, yea an accuſation, letting them know, that it was moſt juſt, that the Lord ſhould goe on in puniſhment, becauſe they did ſtill goe on in ſinne, and therefore howſoever there might be ſome intermiſſion, yet no diſmiſſion out of <hi>his hand which is ſtret<g ref="char:EOLhyphen"/>ched out ſtill.</hi> The words are conſiderable by themſelves and in their relation unto what went before. In themſelves they conteine an heavy inditement againſt <hi>Iſrael,</hi> in which this heigh<g ref="char:EOLhyphen"/>nous crime is charged upon them, that they were growne ſo ob<g ref="char:EOLhyphen"/>ſtinate, as they could neither be drawne by mercies, nor driven by judgements, <hi>to turne and ſeeke the Lord of Hoſtes,</hi> from whome they had turned away by their ſinnes, ſuch was their impeni<g ref="char:EOLhyphen"/>tency and obſtinacy, their mindes and hearts in their Apoſta<g ref="char:EOLhyphen"/>cy ſo alienated from God, as though they had bin ſmitten with heavy and very grievous ſtroakes, and their miſery ſuch as they could neither avoide nor indure, yet they would not take notice of Gods hand, ſo as to turne from their ſinne, no nor ſo much as <hi>ſeeke the Lord of Hoſtes,</hi> and crave pardon and ſeeke helpe at his hand. For this laſt branch ſeemeth to bee a further aggravation of their obſtinacy, intimating that they were ſo farre from re<g ref="char:EOLhyphen"/>pentance and converſion, as that
+<hi>they did not ſo much as ſeeke unto the Lord of Hoſtes that ſmote them.</hi> Now in their relative conſi<g ref="char:EOLhyphen"/>deration, they ſet forth how juſt it is with God to goe on ſtill to be angry, and ſtill to ſtretch forth his puniſhing hand, not cea<g ref="char:EOLhyphen"/>ſing to ſmite till ruine and utter deſolation come upon them.</p>
+            <p>In the words there are theſe particulars eſpecially conſidera<g ref="char:EOLhyphen"/>ble. Firſt who ſmote
+<hi>Iſrael,</hi> noted in the relative (him) and expreſſed in the laſt branch of the Text,
+<hi>the Lord of Hoſtes.</hi>
+            </p>
+            <p>Secondly, why and to what end he ſmote them, both implyed in the word <hi>turne,</hi> they were ſmitten, becauſe they had turned from him, and that they might be brought to turne againe unto him.</p>
+            <p>Thirdly what uſe they made of this ſmiting, what fruite it had among them, and that was as little as might be, for they turned not to him &amp;c. this ſmiting to them was fruitleſſe, and vaine.</p>
+            <p>
+               <pb n="5" facs="tcp:154864:6"/>Fourthly, how ill it was taken, and what hurt this obſtinacy and impenitency of theirs did procure unto them, and that is not onely the reproofe of the Prophet, but the continuance of the anger of God and the ſtretching forth of his hand ſtill to ſtrike them with more and much heavier ſtroakes. <hi>For all this &amp;c.</hi> So that theſe wordes (if they ſhould be largely handled) might furniſh our obſervations with at leaſt theſe ſix ſeverall Doctrines as implyed or expreſſed in the words.</p>
+            <p>Firſt, <hi>That the eternall God is the Lord of Hoſtes.</hi>
+            </p>
+            <p>Secondly, <hi>That Iſrael ſmitten by their enemies in warre, it is the Lord that ſmiteth them.</hi>
+            </p>
+            <p>Thirdly, <hi>The cauſe of the deſtroying ſword among them was, their departing from the Lord by their ſinne.</hi>
+            </p>
+            <p>Fourthly, <hi>The end of ſmiting was, that they might returne and ſeeke the Lord of Hoſtes.</hi>
+            </p>
+            <p>Fifthly, <hi>Iſrael was obſtinate and impenitent ſo as they did refuſe to turne and ſeeke the Lord.</hi>
+            </p>
+            <p>Sixthly, <hi>This obſtinacy and impetinency did greatly provoke the Lord to anger, and was the cauſe of the continuance of his anger and ſtretching forth his hand to ſmite them ſtill.</hi>
+            </p>
+            <p>But becauſe it will be impoſſible to ſpeake of more then the one halfe of theſe Doctrines within the compaſſe of the time, I ſhall reduce the<g ref="char:cmbAbbrStroke">̄</g> unto theſe three Concluſions, and only touch upo<g ref="char:cmbAbbrStroke">̄</g> ſome of the other, as occaſion ſhall ſerve, in ſome of the Uſes, and becauſe that which is here ſpoken of <hi>Iſrael,</hi> doth alſo belong unto any other people, whoſe caſe may be paraleld with theirs, I ſhall propound and handle theſe Doctrines, rather in <hi>theſi</hi> then <hi>hypotheſi,</hi> thus.</p>
+            <p>
+               <hi>Firſt,</hi> That <hi>Iſrael,</hi> or any people in covenant ſmitten with the ſword of an enemy, It is the Lord that ſmiteth them.</p>
+            <p>
+               <hi>Secondly,</hi> It is an heinous and greivous provoking ſinne, for a people when they are thus ſmitten, not to turne and ſeeke the Lord of Hoſtes.</p>
+            <p>
+               <hi>Thirdly,</hi> That <hi>Iſrael</hi> or any people continuing thus obſtinate and impenitent, is the cauſe of the continuance of God his anger, and the increaſe of their puniſhment.</p>
+            <p>Theſe are the Doctrines which (as I conceive) will be moſt ſuitable and uſefull, and therefore of them as time ſhall give leave and God ſhall aſſiſt. And firſt I beginne with the firſt.</p>
+            <p>
+               <pb n="6" facs="tcp:154864:7"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label>
+               <hi>When</hi> Iſrael <hi>or any people are ſmitten by their enemies in warre, it is the Lord that ſmiteth them.</hi>
+            </p>
+            <p>When a people is ſmitten with the ſword of a forraigne, or domeſtick enemy, it is the Lord that ſmiteth them.</p>
+            <p>The Doctrine will be of uſe, eſpecially for way unto the reſt. Some<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing muſt therefore be ſpoken of it, although we ſhall be more briefe in this, and more large in the reſt. Now this firſt Doctrine for the ſence of it, I ſuppoſe it is ſo cleare to every one of ordinary capacity, as I ſhall not need to ſpend time in expli<g ref="char:EOLhyphen"/>cation.</p>
+            <p>And for the ground, it will be no leſſe evident unto any that ſhall obſerve unto what the Relative <hi>(him)</hi> doth referre. Unto their enemies it cannot be referred, who were mentioned in the former Verſe, but unto <hi>Iehovah,</hi> the Lord of Hoaſts, as the words following doe declare.</p>
+            <p>But to cleare this point from ſome other Scriptures. <hi>Ezek.</hi> 7.9. <hi>Ye ſhall know that I am the Lord that ſmiteth;</hi> whatſoever the rod or ſword may be, the Lord will have it known that he ſmiteth.</p>
+            <p>And more particularly and plainly, <hi>Deut.</hi> 28.25. <hi>The Lord ſhall cauſe thee to be ſmitten before thine enemies, &amp;c.</hi> and Verſe 49. <hi>The Lord ſhall bring a Nation againſt thee from farre, from the end of the earth, &amp;c.</hi> if they be ſmitten, the Lord is he that doth cauſe it, and he doth bring their enemies how farre ſoever they come,
+<hi>Ezek.</hi> 11 8. <hi>Ye have feared the ſword, and I will bring a ſword upon you, ſaith the Lord God. Amos</hi> 4.10. <hi>Your young men have I ſlaine with the ſword, &amp;c. Ezek</hi> 14.17. <hi>Or if I bring a ſword upon that land and ſay, Sword, Goe through the land, ſo that I cut off man and beaſt from it.</hi>
+            </p>
+            <p>Theſe Scriptures do cleare the point. Yet for better ſatisfacti<g ref="char:EOLhyphen"/>on unto ſuch as doe not ſee how God ſhould be ſaid to ſtrike them that are ſmitten by men, we ſhall briefly note how, and in what ſenſe &amp; reſpect the Lord is ſaid to ſmite. God is pleaſed to work ſometimes with, and ſometimes without means, mediately, and immediately; &amp; thus immediately and without means he formed our firſt Parents, and upheld them being created; and he led his Apoſtles into all truth. And in things belonging to this life, he ſometimes worketh with, and ſometimes without, yea above and contrary unto ſecondary cauſes and means. Thus he fed his people in the Wilderneſſe; divided the Sea; drew water out of the Rock.</p>
+            <p>
+               <pb n="7" facs="tcp:154864:7"/>Sometimes he worketh by means mediately, and uſeth ſecond cauſes; yet then he hath an eſpeciall hand in theſe means: <hi>Acts</hi> 17.28. <hi>For in him we live, and move, and have our being, &amp;c.</hi> and <hi>Epheſ.</hi> 1.11. <hi>he worketh all things after the Counſell of his owne will.</hi> God is not to be conceived in his working by meanes as men. Kings and Princes-governe their Kingdomes by their offi<g ref="char:EOLhyphen"/>cers, ſo as themſelves many times neither act with them nor doe know what is done by them. But the Lord hath an eye and hand in the whole government; All creatures, and every ſe<g ref="char:EOLhyphen"/>cond cauſe is ordered and diſpoſed by him: Who is therefore called the Lord of Hoſtes, not only becauſe all creatures in Hea<g ref="char:EOLhyphen"/>ven and earth are his ſouldiers and his great army, but allſo, be<g ref="char:EOLhyphen"/>cauſe of his ſpeciall cammand, order and government of them all, and particularly of men, in point of warre, which is his ſword, and is ſo ordered by him as he may well be ſaid to ſmite them that are ſmitten, In theſe and the like reſpects.</p>
+            <p>Firſt, Becauſe when a ſword is drawne upon any people he doth call for it. <hi>Ier.</hi>
+25.29. <hi>For I will call for a ſword upon the inhabitants of the earth. Iſay.</hi> 13.4.
+<hi>He is ſaid to be the Lord of Hoſtes, who doth muſter the hoſte of the battell.</hi>
+            </p>
+            <p>Secondly, he doth ſend it whitherſoever it doth at any time come. <hi>Ezek</hi> 14.17.</p>
+            <p>Thirdly, he doth appoint who ſhall be ſmitten, when, by whom, how farre it ſhall goe, and how long it ſhall continue, <hi>Hoſea</hi> 11.6. <hi>Ier.</hi> 47.6, 7.</p>
+            <p>Fourthly, he giveth ſtrength and victory unto them that ſmite and prevaile. <hi>Eccl.</hi>
+9.11. <hi>The battell is not to the ſtrong. Pſal.</hi> 33.17. <hi>An horſe is a vaine thing, neither ſhall he deliver any by his great ſtrength. Pſal.</hi> 144.1. <hi>Bleſſed is the Lord my ſtrength, which teacheth my hands to warre, and my fingers to fight. Prov.</hi> 21.31.
+<hi>Victory is of the Lord.</hi>
+            </p>
+            <p>Fifthly, The Lord doth cauſe warre to ceaſe, and command the ſword to returne and put it ſelfe into its ſcabbard, reſt and be ſtill. <hi>Ier.</hi> 47 6. <hi>Pſal.</hi> 46.9.
+<hi>He maketh warre to ceaſe, unto the end of the earth. &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But ſome may happily object. Wee ſee by experience that men ſmite with the ſword, yea wicked, them that are good, who for their cruelty are not only menaced, but puniſhed by the Lord of Hoſtes for their barbarous cruelty towards his
+<pb n="8" facs="tcp:154864:8"/>people. How then can they be ſaid to be ſmitten of God?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I Anſwer; well enough: for firſt be they who they will, they are of his great Army, who is the great Generall and Lord of Hoſtes; They are his ſouldiers and his ſword. <hi>Pſal.</hi> 17.13. <hi>Deliver my ſoule from the wicked, which is thy ſword. And Zeph.</hi> 2.12. <hi>Ye</hi> Ethiopians, <hi>ye allſo ſhall be ſlaine by my ſword.</hi>
+            </p>
+            <p>Sometimes the Lord doth ſend wicked men to deſtroy or ſmite wicked men, and ſometimes to correct his owne children for their good,<note place="margin">Aug. con<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> that being tried, they may be made manifeſt, either to themſelves for hope, or to others for imitation. <hi>Rom.</hi> 5.3, 4. <hi>Knowing that tribulation worketh patience, and patience experi<g ref="char:EOLhyphen"/>ence, and experience hope.</hi>
+            </p>
+            <p>Secondly, The Lord doth menace and puniſh their cruelty towards his people, and that juſtly, Becauſe they doe not ſmite them in obedience unto God, whoſe will they inquire not after; but have aimes, and ends of their owne, yet God doth uſe them to doe his will, and pleaſure, even then when they doe leaſt of all obey him. This you have noted <hi>Iſa.</hi> 10.5: <hi>Aſhur is the rod of his indignation, or anger: and God doth ſend him againſt an hypo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iticall Nation,</hi> &amp;c. <hi>but ver.</hi> 7.
+<hi>He meaneth not ſo, his end is not to puniſh an hypocriticall Nation, neither doth his heart thinke ſo: But it is in his heart to destroy, and cut off Nations, not a few.</hi> His aime is not to ſerve the Lord, but by his tyranny to inlarge his d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>minions: and to ſubject as much people as he could, unto him<g ref="char:EOLhyphen"/>ſelfe, and ſo to ſerve his owne ambition, and avarice, and there<g ref="char:EOLhyphen"/>fore the will of his God was not his rule, unto which he had no regard: but did abuſe his power, and (as <hi>Hierom</hi> doth obſerve on the place,) went beyond the bounds of Gods anger, and beyond his owne Commiſſion. The like may be noted in <hi>Iehu,</hi> who was ſent of God to deſtroy <hi>Iezabel,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kings 9.7.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and the falſe Prophets, and the whole houſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Ahab. And he did well in executing that which was right in the ſight of God, and is promiſed a reward for his ſervice.</hi> 2. <hi>King</hi> 10.30.
+<hi>Yet the Lord will avenge the blood of</hi> Iezreel <hi>up<g ref="char:EOLhyphen"/>on the houſe of</hi> Iehu.
+<hi>Hoſea.</hi> 1.4. And the reaſon is, becauſe <hi>Iehu</hi> had another aime then God, for hee looked no further then his owne honour,<note place="margin">Annon
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oc
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t ownes qui de corpore di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuat. Occo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amp. In <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.7.</hi>
+               </note> that he might raigne King: But God aimed at the rooting out of Idolatry, by taking away the Patrons of Idols and Authors of it.
+<hi>Now</hi> Iehu <hi>departed not from the Golden Calves that were in</hi> Dan <hi>and</hi> Bethel. 2 <hi>Kings.</hi> 10.29. And the like by ends may be noted in others.</p>
+            <p>
+               <pb n="9" facs="tcp:154864:8"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. If when <hi>Iſrael</hi> or any people are ſmitten by the ſword of an Enemy, it is the Lord that ſmiteth them, then it muſt needs follow, that
+<hi>Germany</hi> ſmitten, and miſerably waſted, it is the Lord that ſmote them.
+<hi>Ireland</hi> ſmitten and allmoſt conſu<g ref="char:EOLhyphen"/>med, the Lord hath ſmiten them.
+<hi>England,</hi> at this time ſmit<g ref="char:EOLhyphen"/>ten, devided and much weakened, it is the Lord that hath ſmit<g ref="char:EOLhyphen"/>ten us. This Doctrine doth aſſure us, as the woman of <hi>Tekoa</hi> doth informe
+<hi>David,</hi> that the hand of <hi>Ioab</hi> was in all that, ſo the hand of God is in all this, his hand hath ſmitten both them and us. The more therefore to blame wee, and the greater our ſin, who looke much below the hand of God.<note place="margin">Iſa. 26.11.</note> It was a juſt com<g ref="char:EOLhyphen"/>plaint of our Prophet. Chap. 26.11. <hi>Lord when thy hand is lifted up, they will not ſee:</hi> and in this Chap. (as was noted before) he chargeth this people, that they were ſo farre from turning to him that ſmote them, as they tooke no notice of the hand that hurt them.
+<hi>Iſrael</hi> lookes lower then heaven, then the hand of God, and lookes on other hands, they could not ſee his hand that ſmote them. I feare. <hi>Iſrael</hi> and <hi>England,</hi> are ſo like each other in this, as <hi>England</hi> is the worſe. I remember what one hath noted of
+<hi>Iſrael,</hi> and I pray let us conſider whether it be not true alſo of <hi>England</hi> alſo at this day. When the <hi>Iewes</hi> indured ſo many miſeries, even from their firſt plantation in the land unto their finall caſting out, they were ſeldome aware of this point; &amp;c. If the <hi>Philiſtines, Cananites</hi> and other borderers upon them doe ſpolle their Country, tyrannize over them, and oppreſſe them with cruell ſlavery, as they did in the times of the Iudges, they will interpret this to be nothing, but an old grudge of theſe nations for diſpoſſeſſing them of their Country, for which they were hated, and all occaſions ſought to worke re<g ref="char:EOLhyphen"/>venge. If the Kingdome be devided, that is nothing but <hi>Reho<g ref="char:EOLhyphen"/>boams</hi> folly, and ill counſell of ill adviſed Courtiers. If <hi>Iſrael</hi> make warre on
+<hi>Iudah,</hi> or <hi>Iudah</hi> upon <hi>Iſrael,</hi> that is but policy to keepe downe one another, leaſt one ſhould encroach upon both Kingdomes: If there be civill warre, that is through the facti<g ref="char:EOLhyphen"/>ons of potent and ambitious Stateſmen. If a forraigner invade them, it is nothing but the pride of ambitious tyrants, that can<g ref="char:EOLhyphen"/>not be content with their owne, but ſeeke after glory and great<g ref="char:EOLhyphen"/>nes in the ruine of other Kingdomes. Yea if <hi>Salmanazer,</hi> or
+<hi>Nebuchadnezzar</hi> carry them away captive out of their Land,
+<pb n="10" facs="tcp:154864:9"/>though they may thinke God not well pleaſed with them, in the generall, yet they would reſolve theſe effects into other cauſes, more proper as they conceive. It was weaknes in their Kings <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>generating from their antient valour, want of good conſide<g ref="char:EOLhyphen"/>rates, of good Councellours, of skilfull and truſty Commanders, or hardy Souldiers, they were over-borne by multitude; and theſe, or ſome things like theſe, were the cauſe of this misfor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e. &amp;c. <hi>But the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and of God they will not ſee,</hi> they will aſcribe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ther unto any thing, then unto the hand of God. Iuſt as
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeakes of the people of his time, in caſe of good ſuc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>Alius fortuna, Alius eventui &amp;c.</hi> One doth aſcribe it to <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>une, another unto event, a third unto the advice of their leaders, a fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tth unto good counſell &amp;c. <hi>nullus Deo.</hi> Hardly a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y unto God. How true this is of our times, and whether this he not our <hi>National</hi> ſin, I ſhall leave you to conſider and judge, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo, it is very great, and wee in it like <hi>Iſrael,</hi> and not much b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yond the <hi>Heathen</hi> may much behind ſome of them, who were wont to looke much higher then many of our people doe. For to ſay nothing of him, that having ſlaine a great Enemy of his Country, and when there was a ſtrife among the Officers, who
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>old give him moſt honour, did aſcribe all to Heaven, and would take nothing to himſelfe and others, but only the lending their hands unto the worke, they aſcribing victory and ſucceſſe unto <hi>Fortuna,</hi> and
+<hi>Victoria,</hi> did as they imagined, aſcribe them to God. For <hi>Fortune,</hi> as they thought was a divine power, and no leſſe indeed then a God. And the like they held of
+<hi>Victoria</hi> as <hi>Aug.</hi> noteth.</p>
+            <p>This ſinne is ſo much the more to be noted and reproved, as it is more ſinfull and dangerous; for it is a fault in the firſt con<g ref="char:EOLhyphen"/>coction of the uſe which ſhould be made of the judgements of God not to be recovered in the reſt. It is obſerved by two lear<g ref="char:EOLhyphen"/>ned
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>xp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſitors upon the Text, that <hi>Iſrael</hi> not acknowledging whence theſe ſtroakes came, therefore they did not turne by true repentance unto the Lord,
+<hi>neither did they ſeeke him.</hi> And whereas theſe ſtroakes were laid on them that they might con<g ref="char:EOLhyphen"/>vert, bring neglected they become more obſtinate. It is the policy of <hi>Satan,</hi> not unlike to that of <hi>Ieroboam</hi> 1 <hi>Kings</hi> 12.26, 27. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the people ſhould goe up to</hi> Ieruſalem, <hi>to Sacrifice in
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that their heart would turne againe unto their Lord,
+<pb n="11" facs="tcp:154864:9"/>the King of</hi> Iudah. And therefore he doth ſet up Golden Calves and ſaid unto them, <hi>It is too much for you to go up to Jeruſalem, behold thy Gods O Iſrael,</hi> &amp;c. Thus the Devill well knowing it might proove dangerous, if men ſhould looke ſo high as the hand of God, for then they might poſſibly lay to heart his hand, and inquire into the cauſe, and fall out with their ſinne, and fall off from Satan, therefore he indeavours to make them to caſt their eyes upon Golden Calves, and doth faſten them on any thing on Earth, that they may not looke up to Heaven, And by this meanes it cometh to paſſe that God looſeth all the glory, and they all the gaine of his mercies and puniſhment upon them for their amendments.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Secondly, This Doctrine may ſerve for comfort and ſupport unto Gods people, to remove and mitigate ſorrow, eſpecially in the exceſſe, in ſaddeſt times of ſmiting. And truly, ſuch times call for cordials, and ſuch a uſe of this Doctrine. For when the Lord cometh towards his owne in a warlike habite and poſture, when he approacheth neer unto them with wrath in his countenance, and a deſtroying ſword, a bloudy rod in his hand, the deareſt of Saints falling into the hands, and unto the mercy of barbarous and cruell bloudy men, ſeemes to exceed in feare, yea and fly in ſuch trembling fits to try ſome ill concluſi<g ref="char:EOLhyphen"/>on, if they ſtay not themſelves, they may feare the feare of the wicked and ſay,
+<hi>A confedracy with them, to whom they ſay a confe<g ref="char:EOLhyphen"/>deracy. Iſa.</hi> 8.12. Their feare may drive them to make unlaw<g ref="char:EOLhyphen"/>full leagues, or to be of the opinion, judgement or practice of the wicked, in working out their way out of danger, and at the leaſt withdraw themſelves from God, in whom alone is helpe, and comfort in time of trouble, and danger. As it is noted of
+<hi>Aſtianax,</hi> when his owne father came towards him armed (al<g ref="char:EOLhyphen"/>though it was to imbrace him) yet being afraid at the ſight of his head-peece, and hairy plume bending towards him: the child doth forthwith hide his face in his nurſes boſome, and cry: the poore child tooke his father in that habite, for a foe, rather then a friend. Thus Gods children may miſtake, and feare, yea and fly unto the creature for ſhelter. But now this Doctrine being remembred, <hi>that it is God that ſmiteth,</hi> and that the rod, or ſword, is in the hand of our Heavenly Father; When
+<hi>Turke</hi> or Traitor, ſome <hi>Iriſh</hi> Rebell, <hi>Engliſh</hi> Papiſt, or Atheiſt, is the
+<pb n="12" facs="tcp:154864:10"/>ſword, yet the hand of God doth order, and guide it, and what<g ref="char:EOLhyphen"/>ſoever their malice, or bloudy cruelty may be, yet it ſhall doe no more, nor go any further then he ſhall carry it; they cannot move but as they are guided and ordered by him: this will qui<g ref="char:EOLhyphen"/>et their ſpirits, and ſtay their feares. You know when ſome Generall or Commander of an Army is reported to be barbarous and cruell, it ſtrikes great feare into the hearts of ſuch as appre<g ref="char:EOLhyphen"/>hend his terrour approch: as on the contrary, if the Generall be re<g ref="char:EOLhyphen"/>outed a mild and mercifull man, it doth much mitigate the feare of ſuch as are like to fall into his hands. When therefore, we ſhall conſider; that the great Commander of all Armies and Lord of Hoſts, is the friend, yea the Father of <hi>Iſrael,</hi> of his peo<g ref="char:EOLhyphen"/>ple, and that all the counſels and ſmitings, yea and very moti<g ref="char:EOLhyphen"/>ons of wicked men are at his diſpoſe; it makes no matter who, or what they are, the ſtroakes ſhall be no more nor heavier, then our Heavenly Father ſhall appoint. <hi>Pſal.</hi> 76.10. <hi>Surely the wrath of man ſhall praiſe thee: the remainder of wrath ſhalt thou re<g ref="char:EOLhyphen"/>braine.</hi> The fierceneſſe and cruelty that they exerciſe againſt his ſervants, ſhall be ſo ordered, as ſhall be for the glory of God, and for the good of his people, even then when they prevaile; And the reſidue of it God will reſtraine from effecting and at<g ref="char:EOLhyphen"/>tempting further evill; ſo that whatſoever ſtrength and power they have joyned with their rage, it ſhall be limited unto what may be for the glory of God, and good of his people, nei<g ref="char:EOLhyphen"/>ther ſhall it breake forth further then is expedient unto theſe ends, be it never ſo great.</p>
+            <p>And as they ſhall be no greater, ſo neither ſhall they beare<g ref="char:punc">▪</g> them longer than is meet and convenient, <hi>Pſal.</hi> 125.3. <hi>For the red of the Wicked ſhall not reſt upon the lot of the righteous, lest the righteous put forth their hands unto iniquity. He at his pleaſure ma<g ref="char:EOLhyphen"/>keth warres to ceaſe.</hi> Pſal. 46.9.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inally, this ſmitting ſhall not ſo much wound, deſtroy and kill; as heale, cure, and ſave his people: for <hi>Iſai.</hi> 27.7,
+8, 9. God doth not ſmite his people, as he ſmiteth thoſe that ſmote him, &amp;c. But in meaſure, &amp;c. ver. 8. And <hi>by this therefore ſhall be iniquity of Jacob be purged, and this is all the fruit, to take away his ſinne,</hi> &amp;c which well conſidered, would prove a ſweet cordiall of com<g ref="char:EOLhyphen"/>fort in theſe ſmitting times, and who would thinke much to be ſmitten by ſuch an hand? I have read, that among the Perſians
+<pb n="13" facs="tcp:154864:10"/>he that is commanded to be beaten by the King, doth give thanks unto him, accounting it to be an happy thing, <hi>quod Rex ſui memor fuerit,</hi> that the King is mindfull of him. Sure I am, they that are ſmitten of God their Father, have cauſe to account it a favour; for if the wounds of a friend be faithfull, how much more the ſtrokes of ſuch a Father? they are ever laid on his in faithful<g ref="char:EOLhyphen"/>neſſe, and ſo in mercy, to make them fit to receive his Promiſes of Grace, and to free them from ſinne. And to this end <hi>David</hi> doth deſire that the righteous might ſmite him, and he ſhould take it for a kindneſſe, <hi>Pſal.</hi>
+141.5. It is reported of <hi>Cyrus</hi> that he knew the names of all that were in his Army; the Lord doth know the names and conditions of all in his; and will ſee that none ſhall have more, or heavier ſtrokes laid on them, then they ſhall be able to beare; for the haires of their heads are numbred, and not one of them doth fall on the ground, but by his providence. I conclude with <hi>Iſai.</hi> 54. the beginning of ver. 4 and ver. 5. <hi>Feare not, for thy Maker is thine huſband (the Lord of Hosts is his Name.)</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> Now in the laſt place, this Doctrine may ſerve to elevate our eyes, and raiſe up our thoughts above, and beyond thoſe viſible hands with which we are ſmitten: Carnall men are wont like the dog to eye and ſnap at the ſtone, not looking at the hand, and therefore they howle, repine, murmure, and vex themſelves, gnaw their tongues, and teare their fleſh, and breake their hearts under their burdens; and yet for all this they make no uſe of their ſmi<g ref="char:EOLhyphen"/>ting.</p>
+            <p>And the people of God themſelves (as it muſt be acknowled<g ref="char:EOLhyphen"/>ged) are too apt to looke too much and dwell too long upon ſe<g ref="char:EOLhyphen"/>cond Cauſes, they many times as young <hi>Samuel</hi> (when God cal<g ref="char:EOLhyphen"/>led) he runneth to <hi>Eli,</hi> ſo they run to men, and meanes, when they ſhould anſwer to God calling them unto himſelfe, and this on both ſides is not onely an hinderance unto them, ſo as they do not improve the ſtrokes unto their ends, but many times a meanes to make them impatient, and ill adviſed, at the leaſt: Whereas if they did conſider that it is the Lord that ſmiteth, it would make them dumbe, and not to dare to open their mouths, becauſe he doth it, <hi>Pſal.</hi> 39.9. Therefore as a remedy of impatien<g ref="char:EOLhyphen"/>cie and many other evils, which may and many times doe follow upon the non-obſervance of his hand in ſmiting, let us minde and
+<pb n="14" facs="tcp:154864:11"/>remember this doctrine, that when any people is ſmitten, it is the Lord that ſmiteth them, and then we ſhall alwayes joyne theſe together in our thoughts, as they did in their cry, <hi>Iudg.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.20. <hi>The ſword of the Lord and of Gideon:</hi> and then we ſhall the better follow the counſell given
+<hi>Micah</hi> 6.9. <hi>The Lords voyce cryeth unto the citie, and the man of wiſdome ſhall ſee thy Name: heare ye the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d and who hath appointed it.</hi>
+            </p>
+            <p>Thus we have done with the firſt point, which ſheweth who it is that ſmiteth Iſrael, or any people that are ſmitten, although by a forreigne enemy in warre.</p>
+            <p>Now we come unto the ſecond, which declareth what uſe Iſrael made of their ſmiting, and how ill their behaviour under the rod was taken. And here we have three diſtinct particu<g ref="char:EOLhyphen"/>lars, which we ſhall for brevities ſake joyne in the Doctrine, and diſtinguiſh in the Uſe.</p>
+            <p>Firſt, the ground and cauſe of their ſmiting.</p>
+            <p>Secondly, the end at which God aimeth in his ſmiting Iſrael, that which moved the Lord to ſmite them, and the uſe they ſhould have made of his ſtrokes, which are both implyed in the word <hi>(turne,)</hi> the contrary whereof is laid to their charge, they did not turne, he ſmote them for their turning from him, and that they might turne unto him.</p>
+            <p>Thirdly, the Lord by the Prophet doth charge this upon them as a great &amp; heinous offence, for which this is here charged on them as an heinous crime, as before you heard, that the people did not turn to him that ſmote them, and brought in as the cauſe or reaſon why the anger of God did continue, and his hand was ſtill ſtretched forth: ſo then the next Doctrine may be thus pro<g ref="char:EOLhyphen"/>pounded.</p>
+            <p>
+               <hi>That it is an offence very heinous (a crime of an high nature) for I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rael, or any people being ſmitten of God for their ſinne, that they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight returne<g ref="char:punc">▪</g> and ſeek the Lord of Hoſts; to continue impenitent and of ſtinate, ſo as not to turne to him that ſmiteth them.</hi>
+            </p>
+            <p>Or more briefly thus:</p>
+            <p>
+               <hi>That it is a wrath provoking ſinne for a people being ſmitten of God with the ſword of an enemy for their ſinne, to continue obſtinate, ſo as not to retur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</hi>
+            </p>
+            <p>I ſhall ſpeake ſomething by way of Explication: Firſt, of this
+<pb n="15" facs="tcp:154864:11"/>ſhort deſcription of God, ſtiled <hi>The Lord of Hosts,</hi> unto whom they ſhould have turned.</p>
+            <p>Secondly, of the duty which they did owe and ſhould have performed, which was to turne and ſeek the Lord of Hoſts: and then we ſhall further declare how, and why this ſhould be char<g ref="char:EOLhyphen"/>ged on them, or any people as a crime ſo heinous, or ſin ſo grie<g ref="char:EOLhyphen"/>vous, and then come to the Uſe.</p>
+            <p>Firſt, the Lord is ſtiled the Lord of Hoſts, and it is an uſuall Ti<g ref="char:EOLhyphen"/>tle or Attribute, which is given and taken by himſelfe, as a ſtile well-fitting his Majeſtie, and the Lord is ſo ſtiled, becauſe that all Creatures are his Army, and he their Generall and great Com<g ref="char:EOLhyphen"/>mander, <hi>Gen.</hi> 2.1. <hi>Thus the heavens and the earth were finiſhed, and all the hoſte of them.</hi> By a Metaphor he calleth the Creatures with which the ſeverall parts of the world are adorned an hoſt: for hereby is meant all Creatures in the earth and heavens, which ſtand as an Army; thus in the higheſt heavens there are the glorious Angels, who are a part of this Hoſt or Army, <hi>Luke</hi> 2.13, 15.</p>
+            <p>Secondly, in the viſible heavens the ſtarres, and they are ſome<g ref="char:EOLhyphen"/>times brought forth to fight againſt the enemies of the Lord of Hoſts and his people, <hi>Iudg.</hi> 5.20. they fought againſt <hi>Siſera.</hi>
+            </p>
+            <p>Thirdly, in the lower heavens, the Fowles of the a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re a part of God his Army; and in the water, the Fiſhes; in the earth, men,<note place="margin">Piſcat.</note> beaſts and creeping things; for they all are ſaid to be an Army in reſpect of God, whom they ſerve, and therefore he is called the Lord of Hoſts,
+<hi>Pſal.</hi> 1 19.91. <hi>Iſai.</hi> 45.12. <hi>Ioel</hi> 2.25.</p>
+            <p>Now all Creatures being called the Armies of God by way of reſemblance, you may briefly note, wherein eſpecially that reſemblance doth ſtand, namely in theſe, and the like particulars.</p>
+            <p>Firſt, in reſpect of their number, for any multitude in Scripture is called an army, if it be orderly;<note place="margin">Illenc.</note> and armies uſually conſiſt of great numbers.</p>
+            <p>Secondly, in reſpect of Order, which is eſpecially obſerved in Armies; and this maketh the Hoſt of God admirable: and the very word tranſlated Hoſt <hi>Gen.</hi> 2.1. doth ſignifie an army ſtan<g ref="char:EOLhyphen"/>ding in order.</p>
+            <p>Thirdly, in reſpect of Obedience. In armies well ordered the ſouldiers are obedient, and at the beck and command of their Captain, as <hi>Matth.</hi> 8.9. and thus locuſts, flies, lice, and every crea<g ref="char:EOLhyphen"/>ture
+<pb n="16" facs="tcp:154864:12"/>are at the command of their Generall.</p>
+            <p>Fourthly, I ſhall adde one thing more, and that is in reſpect of power. Armies are very potent, and ſome have been formidable and irreſiſtible, and thus the Army of the Lord of Hoſts is formi<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble and irreſiſtible, who with flies, frogs, and ſuch like is able to overcome as potent and proud an enemy as
+<hi>Pharaoh</hi> King of Egypt. In theſe and the like reſpects, the Creatures are ſaid to be the Hoſts of God; I might (for prevention of miſtake) further note, how that there is not a reſemblance in every thing. For, other armies or hoſts are raiſed for defence; and may (although great) be put unto the worſt: but it is not ſo with God, who hath no n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed of any Creature, nor can be reſiſted; but I omit that, and this ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll ſerve for the firſt particular, how God is ſtiled the Lord of Hoſts.</p>
+            <p>Secondly, let us in the next place conſider what it is to turne unto the Lord of Hoſts, or him that ſmiteth. The word here uſed is ſometimes tranſlated turne, and ſometimes returne, as you may ſee in theſe places,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>Iſai.</hi> 6.13. and 37.7. and Chap. 31.6. <hi>Ier.</hi> 3.7 &amp;c. It doth properly note out locall motion of them that paſſe, or move from place to place, leaving ſome place or perſon where, or with whom they were before, thus 1 <hi>Sam.</hi> 7.17. <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> his returne was to Ramah, for there was his houſe, &amp;c. but thus it cannot be taken here, for
+<hi>Pſal.</hi> 139.7, 8. it is not poſſible to goe from the preſence of God, if one aſcend to Heaven, or m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke his bed in hell, God is there, &amp;c. The phraſe is tranſlated from l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>call motion of the body, and applyed unto ſpirituall moti<g ref="char:EOLhyphen"/>ons, in which men by a kind of ſimilitude are ſaid to walke, to depa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, or goe from, and to returne againe unto the Lord, and it m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y be noted in the words of <hi>Auſtin, Aliud eſt migrare corpore, aliud corde, &amp;c,</hi> It is one thing to move from place to place in body, and another thing to move from place to place in heart; in body he doth move from place to place, that doth change his place,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Deu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2.</hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ioa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cap. <hi>7.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9.</hi> p. <hi>25<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> he doth it in heart, <hi>qui cordis mutat affectum: ſi aliud amas, &amp; aliud amabas, non ibi es, ubi eras:</hi> he doth move in heart from where he was, that doth change the affection of his heart, and if thou didſt love one thing, and doſt now love another, thou art not there where thou waſt before; by ſinning againſt God, with<g ref="char:EOLhyphen"/>drawing our affections from him, and placing them upon the creature, we goe away from God; ſinne is contrary unto the na<g ref="char:EOLhyphen"/>ture
+<pb n="17" facs="tcp:154864:12"/>of God, and farre from him: and when on the contrary part, we place our affections upon him, and become obedient, we re<g ref="char:EOLhyphen"/>turne to him, from ſinne and vice unto vertue and grace; and therefore as he further obſerveth to this purpoſe,<note place="margin">Aug. in Ioan. tract. <hi>48.</hi> p. <hi>35<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> he that beleeveth doth come, and he that goeth away, <hi>non movetur anima pedibus, ſed affectibus;</hi> the ſoule is not moved with feet, but with affecti<g ref="char:EOLhyphen"/>ons; and God who is deſpiſed in any place, doth depart from their hearts who doe forſake him in their manners and lives not with their feet; he commeth to them who turne to him not with their face but with their faith, and approach unto him in their minds, not with their fleſh. In a word, by ſerious repen<g ref="char:EOLhyphen"/>tance we turne to him; ſo that to turne to God, is to repent, or convert from Satan and ſinne to God, <hi>Act.</hi> 3.19. <hi>Repent and be converted:</hi> and <hi>Ezek.</hi> 18.30.
+<hi>Repent and turne your ſelves from your iniquities,</hi> &amp;c.</p>
+            <p>Thirdly, let us in the laſt place note what it is to ſeek the Lord of Hoſts, which is the other act or branch of the duty they ſhould have performed; To ſeek the Lord of Hoſts (as is obſerved by one upon the words) is ſometimes to pray, <hi>Pſal.</hi> 34.4. <hi>I ſought the Lord.</hi> And ſometimes to obey, it is put for the obſervation of the Commandements, 2
+<hi>Chron.</hi> 14.4. <hi>Aſa</hi> commanded Judah to ſeek the Lord God of their fathers, and to doe the Law and the Com<g ref="char:EOLhyphen"/>mandements. But it will not be amiſſe to open this Phraſe a lit<g ref="char:EOLhyphen"/>tle further, which doth very often occurre in Scripture. The word is borrowed from common uſe (as the former) and ſee<g ref="char:EOLhyphen"/>king properly is a ſolicitous and ſedulous action of ones deſiring and endeavouring to find ſome perſon or thing which they ap<g ref="char:EOLhyphen"/>prehend to be loſt, or at leaſt, is out of their hand and poſſeſſion, thus <hi>Luk.</hi> 2.15. and 4.8. and
+<hi>Luk.</hi> 2.44. this being the proper uſe of the word doth hold ſome proportion with this duty of ſeeking applied unto higher objects and divine things, generally it may imply and comprehend repentance and all other acts and exerci<g ref="char:EOLhyphen"/>ſes, whereby the Lord of Hoſts is ſought and may be found, and more ſpecially it is called a ſeeking of his face. 1 <hi>Chron.</hi>
+16.11.</p>
+            <p>For God is every where in his Eſſence and Power, as an An<g ref="char:EOLhyphen"/>tient hath noted, <hi>Deus manet intra omnia, extra omnia, &amp;c.</hi> God abideth within all things, without all things,<note place="margin">Greg.</note> and he is above and below all things; he is above all things in his power and domi<g ref="char:EOLhyphen"/>nion, and below all things by his ſuſtentation, without all things
+<pb n="18" facs="tcp:154864:13"/>by his greatneſſe, and within all things by his piercing and ſubtile nature.</p>
+            <p>But the face and favour of God is not ſo extenſive as his pre<g ref="char:EOLhyphen"/>ſence.</p>
+            <p>To ſeek the Lord is to uſe all meanes by which his favour may be obtained, and his grace exerciſed and manifeſted to us; and this ſeeking God is to reſt on him, to beleeve in him, to obey his will, to worſhip and ſerve him, no otherwiſe then himſelfe hath appointed; and being angry, to endeavour reconciliation, and to implore his helpe, and grace; others ſay, men ſeeke the Lord by faith, repentance, an intire and ſerious endeavour and deſire of the heart after reconciliation and grace, with prayers and an endea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our after righteouſneſſe and beneficence, by putting off the old man and putting on the new.</p>
+            <p>Now that which is charged upon Iſrael is, that they did not ſeeke the Lord of Hoſts. It was their duty ſo to ſeek the Lord, as hath been ſet forth; but (as I conceive) the Prophet doth not ſpeake of ſuch a ſeeking in this place, but of a leſſer degree of ſee<g ref="char:EOLhyphen"/>king then turning unto him; for it is a further amplification and aggravation of their ſinne, as was before noted; in the reſolution of the words they were ſo farre from turning to God by true re<g ref="char:EOLhyphen"/>pentance and converſion, as they did not ſo much as acknow<g ref="char:EOLhyphen"/>ledge and crave pardon for their ſinne; they did not perceive and take notice of the wrath of God againſt them for their ſinne, and therefore did not cry to him for mercy, as the Lord of Hoſts by whom they were ſmitten, and in whoſe power it was to wound and heale, to ſave and deſtroy them, which is a great ag<g ref="char:EOLhyphen"/>gravation of their ſinne, that they did not at all ſeek to him who was the Lord of Hoſts, able to helpe or hurt whom he would. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or had he been unable to hurt or helpe, or were he ſo farre off as they might ſeeme to be out of his reach, or that he had not at all to doe with them, it had not beene ſo neceſſary that they ſhould have ſought him, but he being the Lord of Hoſts and he that ſmote them, and was able utterly to ruine and deſtroy them; for them not to turne nor ſo much as ſeeke unto him, was an offence of a very high nature: It ſeemes to be ſuch a kind of aggravation of their ſinne, as that <hi>Ier.</hi> 5.21, 22.</p>
+            <p>Now for the proofe of this Doctrine, I ſhall have leſſe need to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end time, becauſe the Doctrine is ſo neere unto the words, at
+<pb n="19" facs="tcp:154864:13"/>leaſt the ſenſe and ſcope of the Text; for they are charged with this as an heinous crime, and as the cauſe of anger and ſmiting continued, that they did not turne, &amp;c. you may pleaſe to obſerve that <hi>Ier.</hi> 2.30. <hi>In vaine have I ſmitten your children, they received no correction,</hi> &amp;c. And Chap. 5.3, 4. <hi>O Lord, are not thine eyes upon the truth? thou haſt ſtricken them, but they have not grieved; thou haſt conſumed them, but they have refuſed to receive correction, they have made their faces harder then a rocke, they have refuſed to returne. Therefore I ſaid, Surely theſe are poore, they are fooliſh: for they know not the way of the Lord, nor the judgement of their God.</hi> In which places, eſpecially the latter, they are charged with obſtinacy, in contemning chaſtiſements and corrections; which contempt of theirs did greatly provoke the Lord to wrath againſt them,
+<hi>Iſai.</hi> 1.5. there the Prophet doth charge them with obſtinacie and impenitencie as an high and heinous offence, that neither mercy nor correction would make them better, and many the like pla<g ref="char:EOLhyphen"/>ces might be brought to this purpoſe, I ſhall only adde that <hi>Amos</hi> 4.8. and thence to the end of that Chapter, in which they are re<g ref="char:EOLhyphen"/>proved or rather reproached and upbraided with this: that not<g ref="char:EOLhyphen"/>withſtanding they had been viſited with all ſorts of judgements, and yet they did not for all that return unto him that ſmote them. See <hi>ver.</hi> 8, 9, 10, 11,
+12.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>
+               </label> Now if any aske, why this ſhould be an offence ſo heinous, and ſuch a provocation of wrath not to returne, being under the rod: the reaſon is manifeſt, and partly intimated in the termes of the Doctrine, and in what was brought for proofe; ſuch doe remaine impenitent and obſtinate, they ſinne not of infirmity and weak<g ref="char:EOLhyphen"/>neſſe, but of ſtubbornneſſe and wilfulneſſe, and now they refuſe to receive correction; they have made their faces harder then a rock,<note place="margin">Jer. 5.3.</note> they have refuſed to returne; <hi>Ier.</hi> 5.3. ſuch men are unfruitfull under meanes, unthankfull for mercy, fruſtrate Gods endeavour to doe them good, ſhew themſelves incorrigible, and irrecove<g ref="char:EOLhyphen"/>rable when mercies nor judgements will doe them no good. In the 6. Chapter and <hi>ver.</hi> 29, 30. the deſperate condition of ſuch an obſtinate people, is excellently ſet forth by comparing ſuch ſin<g ref="char:EOLhyphen"/>ners unto Oare, God unto a refiner, and his Word a rod unto a furnace, theſe meanes uſed to take away the droſſe of their ſinne, and not prevailing, he with indignation doth now caſt them away as droſſe that is good for nothing.</p>
+            <p>
+               <pb n="20" facs="tcp:154864:14"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>
+               </label> Thus having cleared the Doctrine, I ſhall come to the Uſes, which might be divers, but that I muſt haſten unto the laſt point, which I chiefly intend. This Doctrine will in the firſt place, (by conſidering the implyed cauſe and ground of the quarrell be<g ref="char:EOLhyphen"/>tween God and a people; the cauſe of ſmiting, which is falling, or turning from him by ſin,) informe us of the moſt malignant, and pernitious nature of ſinne, it is a ſerpent which uſually ſhew<g ref="char:EOLhyphen"/>eth an aimiable face, but hideth its venomons taile, that men may more boldly venture upon it; but what ſhewes ſoever it maketh to the contrary, we ſhall finde it a fawning enemy, a ſweet poy<g ref="char:EOLhyphen"/>ſon and a deadly ſerpent, it may be ſweet in the mouth, but it will be bitter in the belly, as <hi>Iob</hi> 20.12. <hi>Though wickedneſſe bee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reet in the mouth of the ſinner,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>
+               <hi>though he hide it under his tongue; though he ſpare it, and forſake it not, but keep it ſtill within his mouthe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t his meat in his bowels is turned, it is the gall of Aspes within him.</hi> And as the Prophet <hi>Ier.</hi> 2.19.
+<hi>It is an evill thing and a bitter to for<g ref="char:EOLhyphen"/>ſake the Lord.</hi> This <hi>Dalilah,</hi> this
+<hi>Abſalom,</hi> ſo much affected, be<g ref="char:EOLhyphen"/>loved and delighted, doth provoke God to anger, and draw down puniſhment upon us; ſinne ſets Heaven againſt us, keepeth good things from us, if famine, warre, peſtilence, or any other judge<g ref="char:EOLhyphen"/>ment ſeize on the land, we may thanke ſinne for it, which is the only procuring cauſe of it. God ſmote Iſrael for their ſinfull for<g ref="char:EOLhyphen"/>ſaking him, and he ſmote them that they might returne; if this were well conſidered, we ſhould not ſo eaſily entertaine and im<g ref="char:EOLhyphen"/>brace this hatefull enemie, preſenting it ſelfe unto us in friendly and delightfull ſhapes; but we look on ſinne as a tender mother on the fruit of her wombe ſmiling upon her, and repreſenting no<g ref="char:EOLhyphen"/>thing but what is delightfull unto it, whereas looking upon that tender infant through the Proſpective of Gods Word, ſhe might ſee are bell, a traitor, a ſerpent full of deadly poyſon, and which may prove a <hi>Iudas,</hi> another <hi>Abſalom,</hi> if not renewed or reſtrained by Grace; thus ſinne lookt upon through the Word, although in the ſhape of pleaſure, profit, &amp;c. yet it is that which doth cauſe the Lord to be angry, and in anger to ſmite us with bloody ſtrokes of the deſtroying ſword.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> In the next place, this Doctrine may further informe us of Gods mercy in his heavy and grievous Iudgements. <hi>God ſmi<g ref="char:EOLhyphen"/>teth, that they might returne unto him:</hi> his aime and indeavour is to doe <hi>Iſrael,</hi> or another people good by ſmiting them: he would
+<pb n="21" facs="tcp:154864:14"/>not come to blowes at all, if words would ſerve the turne, or any warning be taken; but if words will not, if no warning may ſerve, then the rod muſt open the eare, and if it may make us returne, it is howſoever from the wiſedome and goodneſſe of God, that a ſinfull people are ſmitten, for hereby he ap<g ref="char:EOLhyphen"/>plyeth an healing hand unto ſuch <hi>as would periſh without ſuch meanes uſed for their good.</hi> This is that muſt recover them if they be not incurable, for it is the phiſick which his owne wiſdome hath found out, and preſcribed to us, in recovering ſuch as we have under our hands. <hi>Pro.</hi> 22.15. <hi>Fooliſhneſſe is bound in the heart of a child: but the rod of correction ſhall drive it farre from him.</hi> And therefore, <hi>Pro.</hi> 23.13. <hi>Correction muſt not be withheld from the child: for if he be beaten with the rod he ſhall not dye,</hi> and in the next verſe, <hi>Thou ſhalt beate him with the rod and ſhalt deliver his ſoule from hell.</hi> So that to uſe the rod is to ſhew love and care for the childs good; <hi>But to spare the rod, is to hate the ſonne; And he that loveth him chaſteneth him betimes. Pro.</hi> 13.24. God doth exerciſe his Fatherly goodneſſe, even in ſmiting, that he may cauſe men to turne to him ſmiting them. That of
+<hi>Hab.</hi> 1.12. Is worthy Obſervation: <hi>Art thou not from everlaſting, O Lord my God; mine holy one? we ſhall not die: thou haſt ordained them for judgement, and O mighty God thou haſt eſtabli<g ref="char:EOLhyphen"/>ſhed them for correction.</hi> Where he ſheweth, how that although God ſuffered the enemies of his people to ſpoyle them, yet he was their God, and kept his Covenant with them; by noting the manner and end of ſuch a ſmiting: he ſheweth that the Lord doth order and diſpoſe them by his providence, and that he had a gracious end in ſuch ſtrokes, not to kill but to correct them; and finally there was a meaſure in the manner of his ſmiting his people by their enemies, as the word Judgement doth imply, they had bounds ſet, which they could not paſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> A third <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of this Doctrine may be to informe us concerning the uſe, and improvement of this ſmiting, hereby a nation, and ſo a particular perſon may ſee whether they have made a right uſe of the ſtrokes of warre, or any other judgement; <hi>If they have cauſed us to turne to him that ſmiteth us,</hi> and that we have bin brought to learne obedience,<note place="margin">Heb. 5.8.</note> (as our Lord did) by the things which he ſuffered; and that as <hi>David</hi> ſaith of himſelfs <hi>Pſal.</hi> 119.67.
+<hi>Before I was afflicted; I went aſtray: but now have I kept thy
+<pb n="22" facs="tcp:154864:15"/>word:</hi> thus if the Land can ſay, and the inhabitants of it, looking unto the cauſe of the controverſy of God. <hi>Hoſe.</hi> 4.1, 2. The cauſe of the controverſy with <hi>Iſrael,</hi> is the want of truth, mercy and the knowledge of God. And becauſe by ſwearing, and lying, and killing, and ſtealing, and comitting adultery, they breake out and bloud toucheth bloud. There are many other ſinnes which move God to be Angry with
+<hi>Iſrael,</hi> ſome of which we noted in the Context, theſe are for inſtance, now if a man can ſay be<g ref="char:EOLhyphen"/>fore theſe warres began, I was a lyer, but now have I caſt off lying, and ſpeake the truth; I was a cruell man, but now am full of bowells of mercy, and tender affection, and humanity; I was ignorant and Atheiſticall, without the feare of God in my heart, but now have I gotten ſome knowledge, and feare of God into my ſoule, and ſo of the reſt. I did uſe profanely to Sweare, made no conſcience of Lying, and other Sinnes, but now I feare an oath, ſpeake truth, and am tender of the life, and juſt in the dealing with the ſtate of my neighbour, &amp;c. Surely this man may be ſaid to have profited by this judgement, which is become a correction unto him for his amendment; and the like may be ſaid of a nation. But if it may be ſaid of ſuch a Nation, or perſon, becauſe they were falſe, unjuſt, and ignorant before, God ſmote the land, and they are ſuch ſtill: they were pro<g ref="char:EOLhyphen"/>phane Swearers before, and are ſuch ſtill: Lyers before, and are Lyers ſtill; and ſo of the reſt. It is ſure ſuch a perſon, or nation hath not made the right and true uſe of ſuch ſtroakes, <hi>which ſhould have cauſed them to turne to him that ſmiteth them.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> The laſt <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> we ſhall make of this Doctrine is examination &amp; reprehenſion. <hi>Iſrael</hi> did not turne to him that ſmote them. It is a heighnous crime laid to their charge, and a very great offence. The uſe therefore of this Doctrine by way of reſolution, would be examination of our ſelves, namely that every one ſhould con<g ref="char:EOLhyphen"/>ſider, and inquire, what doe I? what doe we? and am not I to be charged juſtly with ſome ſuch crime, and provoking ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? may it not be laid to my charge, <hi>that I turne not to him that ſmi<g ref="char:EOLhyphen"/>teth?</hi> I feare it may too truly be laid to our charge, as it is char<g ref="char:EOLhyphen"/>ged on <hi>Iſrael, That the people turne not to him that ſmiteth them, neither doe they ſeake the Lord of Hoſtes.</hi> But as it is ſaid of
+<hi>Iſrael,</hi> (elſewhere) it may truly be ſaid of <hi>England,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſ. 7.10.</note> that the pride of
+<hi>Iſrael</hi> teſtifieth to his face, <hi>and they doe not returne unto the Lord
+<pb n="23" facs="tcp:154864:15"/>God, nor ſeeke him for all this.</hi> That is, notwithſtanding all war<g ref="char:EOLhyphen"/>nings, menaces, corrections and ſevere puniſhment: they are not bettered, they yeild neither to words, nor blower, but hold on their ſinfull courſe, continue obſtinate, although grievouſly afflicted and oppreſſed, and that their pride doth teſtifie to their face, they are evidently convinced of it. In this pride they did ſlight and contemne all warnings, which is an argument of in<g ref="char:EOLhyphen"/>tolerable pride indeed. They were admoniſhed, reproved and warned, yet did not regard it. I wiſh it were not true of us, who have bin for many yeeres together admoniſhed, &amp; warned: for as <hi>Ieremiah</hi> ſpeaks of the people of his time. <hi>The Lord hath ſent unto you all his Servants the Prophets, riſing early, and ſending them; but ye have not hearkned, nor inclined your eare to heare.</hi>
+               <note place="margin">Jer. 25.4, 5.</note> The<g ref="char:cmbAbbrStroke">̄</g> he ſhew<g ref="char:EOLhyphen"/>eth what their meſſage was; <hi>They ſaid, turne you againe now every one from his evill way, and from the evill of your doings, and dwell in the land that the Lord hath given unto you, and to your fathers for ever and ever, &amp;c.</hi> Then he ſheweth what uſe they made of this admonition, and meſſage, and that is in the ſeventh Verſe, <hi>Yet ye have not hearkened unto me ſaith the Lord,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 7.</note> 
+               <hi>that ye might provoke me to anger, with the worke of your hands, unto your owne hurt.</hi> But of this more in the next point.</p>
+            <p>Thus much of the ſecond Doctrine, I proceed now unto the third and laſt, which is this,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label>
+               <hi>Iſrael ſmitten for his ſinnes, and not returning and ſeeking the Lord of Hoſts, moveth God to continue his anger, and to ſtretch forth his ſmiting hand ſtill.</hi>
+            </p>
+            <p>This Doctrine I chiefly intended, as that which may be ſuta<g ref="char:EOLhyphen"/>ble unto the time, and uſefull to us all; the worſt is, I feare I ſhall not have time to ſpeake ſo fully unto it, I ſhall therefore doe as a traveller that is likely to be belated, paſſe over ſuch things as are not of neceſſity, and poſt over the next way unto what I principally intend.</p>
+            <p>The Doctrine may be propounded in <hi>theſi</hi> as well as the for<g ref="char:EOLhyphen"/>mer, or we may propoſe it in <hi>hypotheſi,</hi> it will be uſefull either way: if you pleaſe you may take it thus:</p>
+            <p>
+               <hi>When God is angry with Iſrael, or any people in Covenant, and ſmi<g ref="char:EOLhyphen"/>teth them with the ſword of an enemy for their ſinnes, if they doe not returne and ſeeke the Lord of Hoſts, God will continue his anger and ſtretch forth his hand ſtill.</hi>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:154864:16"/>I conceive the Doctrine for the ground to be ſo cleare, and for meaning ſo plaine, as I need not waſte time (which we ſhall want,) in Explication or proofe.</p>
+            <p>For the ground of it, briefly let this be obſerved, that whereas in the former verſe he had avouched God to be angry ſtill, and ſtill to ſtretch forth his hand to ſmite, although they had been grie<g ref="char:EOLhyphen"/>vouſly ſmitten before, he ſheweth this to be the cauſe and juſt ground of the continuance of anger and ſmiting, namely that they doe not turne to him that ſmiteth, nor ſeeke, &amp;c. ſo that this reaſon in its relation doth hold forth the Doctrine, that
+<hi>when God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s angry with Iſrael or any people in Covenant, and ſmiteth them with the ſword of an enemie for their ſinne, if they returne not, neither ſeeke the Lord of Hoſts, he will continue his anger and ſtretch forth his de<g ref="char:EOLhyphen"/>ſtroying hand ſtill.</hi>
+            </p>
+            <p>And for the ſence, only in generall, for I have not time to ſpeak of the termes in particular; when the Lord brings the ſword up<g ref="char:EOLhyphen"/>on a people to cauſe them to repent and returne unto him, they continuing impenitent and obſtinate, not repenting of their ſinne and yeelding unto him, the Lord will not ceaſe to be angry, he will not be appeaſed, nor ceaſe to puniſh, but will goe on, and multiply and make his ſtrokes more and heavier then they were before, for ſo much is implyed, when he ſaith, <hi>His hand is ſtretch<g ref="char:EOLhyphen"/>ed f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth ſtill:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>Parata ad graviores poenas infligendas.</hi> His hand is ready to inflict more heavie and grievous puniſhments.</p>
+            <p>Now although I might ſpare further proofe of the Doctrine, I ſhall point you to a place or two, and haſt unto the Uſe. That obſtinacie under puniſhment and ſmiting doth cauſe anger to continue, yea, and puniſhment to increaſe is manifeſt by that, <hi>Levit.</hi>
+26.17, 18. <hi>And I will ſet my face againſt you, and ye ſhall be
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine before your enemies: they that hate you, ſhall reigne over you,</hi> &amp;c. then <hi>ver.</hi> 18. <hi>And if ye will not yet for all this hearken unto me, then will I puniſh you ſeven times more for your ſinnes.</hi> Whore you ſee ſuch as are ſmitten and doe not become obedient, ſhall feele the hand of God ſeven times heavier then it was before. In the Pro<g ref="char:EOLhyphen"/>phecy of <hi>Amos</hi> Chapt. 4. throughout the latter part of the Chap<g ref="char:EOLhyphen"/>ter from <hi>ver.</hi> 6. you have a cleare proofe of this point, eſpecially
+<hi>ver.</hi> 12. where (as ſome underſtand that place.) <hi>Therefore thus will I doe unto thee, O Iſrael,</hi> that is, I ſhall bring the puniſhments be<g ref="char:EOLhyphen"/>fore mentioned, and more heavie and grievous, even ruine and
+<pb n="25" facs="tcp:154864:16"/>deſtruction; becauſe they had been puniſhed with leſſer puniſh<g ref="char:EOLhyphen"/>ments, and would not turne unto the Lord, therefore this would he doe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> But I paſſe from the proofe, and come briefly to note the rea<g ref="char:EOLhyphen"/>ſons of the Doctrine, why anger and ſmiting ſhould be continued and increaſed: firſt, it is ſtill continued, becauſe the cauſe and diſ<g ref="char:EOLhyphen"/>caſe doth ſtill continue; there is the ſame reaſon of the continu<g ref="char:EOLhyphen"/>ance of Phyſicke, and meanes to cure the body, as there was of entering ſuch a courſe, if the diſeaſe doe ſtill continue; and the ſame reaſon of continuing corroſives to a ſore, as to apply them at firſt, if proud or dead fleſh do ſtill continue; the ſame reaſon of correcting a ſecond time as there was of a former correction, if an offender continue to offend, and this is true whether the ſtrokes are for puniſhment or correction.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Secondly, their ſinne is now more ſinfull, and therefore deſer<g ref="char:EOLhyphen"/>veth more anger, and calleth for greater puniſhment. For firſt, they improve not the meanes uſed for their good, but abuſe the meanes, and take the Name of God in vaine.</p>
+            <p>Secondly, they adde contumacy to their ſinne, and ſhew them<g ref="char:EOLhyphen"/>ſelves to be obſtinate, ſo as their ſinne is another ſin in the nature of it, although the ſame in the matter: for now they refuſe to re<g ref="char:EOLhyphen"/>ceive correction, <hi>and make their faces harder then a rocke,</hi>
+               <note place="margin">Jer.
+5.3.</note> 
+               <hi>and refuſe to returne,</hi> as was before noted out of the Prophet.</p>
+            <p>Thirdly, they ſhew their love unto their ſinne, and delight in it to be greater:<note place="margin">In operationi<g ref="char:EOLhyphen"/>bus malis ab eo<g ref="char:EOLhyphen"/>dem habitu po<g ref="char:EOLhyphen"/>ſteriores ſunt pejores priori<g ref="char:EOLhyphen"/>bus.
+<hi>Toſtat.</hi>
+               </note> for in evill workes proceeding from the ſame habit, the latter are worſe then the former, this iteration doth argue delight in offending, which therefore doth deſerve greater puniſhment.</p>
+            <p>Fourthly, this continuance in ſinne under ſmiting is a ſigne of obſtinate malice and wickedneſſe, for ſuch men being thus puni<g ref="char:EOLhyphen"/>ſhed and doe not repent, doe <hi>apertum bellum cum Deo agore,</hi> wage open warre with God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, I might adde another reaſon, drawne from the end of ſmiting, which is various according to the condition of the per<g ref="char:EOLhyphen"/>ſon ſmitten, if the man be wicked, and a veſſell of wrath, the Lord doth ſmite to glorifie his juſtice, in taking vengeance of his ſinne, and ſo he proportioneth puniſhment unto the nature of the ſinne, as
+<hi>Pſal.</hi> 58.10, 11. <hi>God will overcome when he judgeth,</hi> Rom. 3.4. If he be a veſſell of mercy, and one that the Lord loveth, he will
+<pb n="26" facs="tcp:154864:17"/>ſmite him till he make him ſmart, if he doe not attend his plea<g ref="char:EOLhyphen"/>ſure, and turne from ſinne with leſſer ſtrokes, the Lord is forced to make them greater, till he bring downe their proud heart, and make them to yeeld, as <hi>Pſal.</hi> 107.11, 12. they doe rebell againſt the words of the Lord and contemne the counſels of the moſt High, therefore he bringeth downe their heart with labour, they foll downe and there is none to helpe. The Lord will breake the pride of their power, as he threatneth <hi>Levit.</hi> 26.19. if the judgement ſhould be removed while the ſinne is not left, it were judgement and wrath, not mercy and grace; and ſo much for the reaſons and fitting the Doctrine for Uſe, I come now to the Application.</p>
+            <p>This Doctrine thus cleared, the Uſes might be many, and would require much more time then we have for their full pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cution; but we ſhall contract our ſelves and apply the point, firſt, for Iuſtruction; ſecondly, for Conviction; thirdly, for Hu<g ref="char:EOLhyphen"/>miltation; and finally, for Exhortation and Direction.</p>
+            <p>And firſt for Inſtruction and Information: this Doctrine will ſerve to informe us what the true and maine cauſe is that our hopes are delayed, our expectations not anſwered, endeavours diſappointed, deſignes defeated, and proceedings which might haſten our peace and happy weale-publike ſo much retarded; you may find many inferiour and leſſer cauſes, and give divers poli<g ref="char:EOLhyphen"/>ticke reaſons; but the great and chiefe cauſe is in truth, that in the text, the obſtinacie and impenitency of the Nation; this, I ſay, this is the cauſe why our expectations are not anſwered, why our hopes are blaſted, our long deſired peace is deferred, and the ſmiting hand of God ſtretched out ſtill, his anger continued and not turned away. <hi>The people turne not unto him that ſmiteth them, neither doe they ſeeke the Lord of Hosts.</hi> Here it ſtickes, and this is the obſtruction, the true cauſe of all our miſery, the very reaſon why we obtaine not our long expected mercies; we hoped for an happy peace, the paths whereof drop fatneſſe, and that crow<g ref="char:EOLhyphen"/>neth the yeare with her goodneſſe; we promiſed our ſelves that the day would have come before this time, in which we might have ſeen that verified in the Pſalme, <hi>Mercy and Truth are met together,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 8<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Righteouſneſſe and Peace have kiſſed each other:</hi> Although it muſt be co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſſed that theſe expectations did bottome them<g ref="char:EOLhyphen"/>ſelves upon Prerogative rather then upon an ordinary way of
+<pb n="27" facs="tcp:154864:17"/>God his proceeding with a ſinfull and unthankfull people, and yet our Watchmen and Seers thought verily they heard that voyce of Chriſt ſounding in their eares, of which the Church makes report in theſe words, <hi>My beloved ſpake and ſaid unto me,</hi>
+               <note place="margin">Cant. 2.10, 11, 12.</note> 
+               <hi>Riſe up, my love, my faire one, and come away. For lo the winter is paſt, the raine is over and gone. The flowers appeare on the earth, the time of the ſinging of birds is come, and the voyce of the turtle is heard in our land,</hi> &amp;c. they thought they ſaw all good things flowing in up<g ref="char:EOLhyphen"/>on us, or at leaſt comming towards us.</p>
+            <p>But ſince that we were put into ſuch hopes, we have had many feares, great and ſore troubles have been brought upon the land, and it may complaine as the Church.<note place="margin">Pſal. 71.20. and 44.19.</note> 
+               <hi>Thou hast ſore broken us in the place of dragons, and covered us with the ſhadow of death,</hi> and ſtill may we complaine of the diſappointment of our hopes, as they in the Prophet, <hi>We looked for peace, but behold no good came:</hi>
+               <note place="margin">Jer. 8.15.</note> 
+               <hi>and for a time of health, but behold trouble.</hi> And as it followeth, <hi>The har<g ref="char:EOLhyphen"/>veſt is paſt, the ſummer is ended, and we are not ſaved:</hi>
+               <note place="margin">Ver. 20.</note> no although we have faſted, and prayed for peace, and earneſtly beſought the God of peace to grant it, and that our diſtractions might be compoſed, that our breaches might be made up, our ruines repai<g ref="char:EOLhyphen"/>red, Religion ſetled, that the Lord would be reconciled to the Nation, and Prince and people one unto another, and doe conti<g ref="char:EOLhyphen"/>nue to hold up our hands and lift up our hearts to the throne of Grace, for theſe things ſummer after ſummer, and yeare after yeare, theſe out ſutes have not been (as the prayers of Gods people commonly are) as the bow of <hi>Ionathan</hi> which turned not backe, and the ſword of <hi>Saul</hi> that returned not empty.<note place="margin">2. Sam. 1.22.</note> We have not ſeen theſe our prayers returne as the Dove did into the Arke with an Olive branch of a gracious anſwer in theſe things. I grant (which to deny or not to acknowledge unto the glory of God, were ſinfull ingratitude,) they have had many gracious anſwers and grants of ſuch things as we could not have been without, to have preſerved us from deſolation and ruine. But in the things before named they have not yet been anſwered. It hath been with us in what we have obtained, as with Iſrael in the wilder<g ref="char:EOLhyphen"/>neſſe, in the blackeſt night we have had a pillar of fire, and in the brighteſt day a pillar of a cloud: Piety and proſperity, and Reli<g ref="char:EOLhyphen"/>gion, and Peace are not yet met to make us happy; now why is it thus? and what is the reaſon? where is the obſtruction? is not
+<pb n="28" facs="tcp:154864:18"/>God as able as ever? his hand as long as ever? ſurely it is, but conſider the Doctrine,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m.
+21.1.</note> and it will be as the Oracle in the three yeares famine, yeare by yeare, as it certified <hi>David,</hi> there was cauſe of that famine; ſo this Doctrine will aſſure us, there is a cauſe of this continuance of anger and ſmiting; and it is as 2 <hi>Chron.</hi>
+20.33. <hi>as yet the people had not prepared their hearts unto the God of their fathers:</hi> ſo that the high places were not taken away, they did not convert and returne, they would not reforme their wayes, as in the Text, <hi>they turne not to him that ſmiteth them, either doe they ſeeke the Lord of Hoſts;</hi> it is not becauſe God is not the God that heareth prayers, or that he cannot ſave, or not afford us mercy; this is not the cauſe why the hand of mercy is pulled in, and the hand of his wrath is ſtretched out, but becauſe people are impenitent, and turne not; this, this is the true cauſe of all our miſery, and why we want many a mercy, we make not uſe of wrath and ſmiting; and this is that which no doubt hath made the Lord even to repent of the good he intended towards us, as you have it, <hi>Ier.</hi> 18.9, 10. <hi>At what inſtant I ſhall ſpeake concer<g ref="char:EOLhyphen"/>ning a nation, and concerning a kingdome to build and to plant it; If it doe evill in my ſight, that it obey not my voyce, then will I repent of the good, wherewith I ſaid I would benefit them.</hi> Let this then be the firſt Uſe, and let it open our eyes to ſee the true cauſe of our ſorrow, and ſay with the Church, <hi>Lam</hi> 5. <hi>The crowne is fallen from our head;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n. 5.16, 17.</note> 
+               <hi>woe unto us that we have ſinned.</hi> For this our heart is faint, for theſe things our eyes are dim. Iſrael had ſinned, and continu<g ref="char:EOLhyphen"/>ed in ſinne, and
+<hi>England</hi> hath ſinned and doth continue in ſinne under ſmiting; no marvell, though we pray againſt warre and puniſhment, and our miſeries ſtill continue, for although God heareth prayers, and is able to helpe, and loveth to be ſought and ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed unto, yet he ſeemeth to hold the Prayers of his beſt Servants unſeaſonable, till ſinne be removed, <hi>Joſh.</hi> 7.10. <hi>Get thee up, where<g ref="char:EOLhyphen"/>fore lyest thou thus upon thy face? Iſrael hath ſinned,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Secondly, this Doctrine will ſerve for ground of Conviction, and to make good and drive home a former Uſe of the ſecond Doctrine, in which we noted, that upon due examination it would be found that <hi>England</hi> was guilty of that heinous crime charged on Iſrael, which was impenitency, and obſtinacy under ſanting, they did not turne, this was an heavy charge and no eaſie and ordinary chiding of Iſrael, when it was ſaid of them, that
+<pb n="29" facs="tcp:154864:18"/>they were ſo obſtinate as words, rods, nor ſwords would worke upon them; for what can be ſpoken or thought more grievous, it is a great offence and ſinne if men obey not ſo ſoone as they heare a duty propounded, but more grievous if reproofes and chi<g ref="char:EOLhyphen"/>dings will not affect them, but <hi>graviſſimum adverſus plagas ipſas dureſcere, vel potiùs calcitrare,</hi> moſt grievous to waxe harder when they are ſmitten, or rather as it were to ſpurne againſt them, and by that means further to incenſe the anger, and increaſe the indignation of the Judge, as <hi>Calvin</hi> obſerveth on the Text, now the continuance of the anger of God and ſtretching forth his hand ſtill, did evince the obſtinacy and impenitency of Iſra<g ref="char:EOLhyphen"/>el there, and doth in like manner prove any other people in Co<g ref="char:EOLhyphen"/>venant with him, if having been ſmitten, the anger of God con<g ref="char:EOLhyphen"/>tinue and his ſmiting hand be ſtretched forth ſtill, that they turne not but are impenitent; for as God his ſmiting a people is a proofe of their ſinning, ſo his continuing to ſmite is a proofe of their continuance in or not turning from their ſinne; puniſhment fol<g ref="char:EOLhyphen"/>lowes ſinne as the ſhadow followes the body, and as the plaiſter the ſore; take away the body and the ſhadow doth ceaſe; when the ſore is healed the plaiſter is no longer uſed: ſo when the ſin is left, and the land turned to him that ſmiteth them, the rod is laid aſide, the hand is drawne in, and no longer ſtretched out to ſtrike: when God continueth the puniſhment and ſhewes him<g ref="char:EOLhyphen"/>ſelf angry ſtill, it proveth Iſrael, <hi>England,</hi> or any other people ſmitten for their ſinne, that they might returne and ſeek the Lord of Hoſts, not to have returned and ſought him: ſo that here againe <hi>England</hi> and Iſrael are ſo like as <hi>England</hi> is the worſe; for Iſrael a people very neere and deare to God, ſo abuſed the bounty of God, as he became angry with them and ſmote them with the ſword of an enemy, yea, raiſed up civill warre among them,
+<hi>Iſai.</hi> 7.9, 21. juſt ſo is it with <hi>England,</hi> only with this dif<g ref="char:EOLhyphen"/>ference,
+<hi>England</hi> hath had more abundance of Grace in the Go<g ref="char:EOLhyphen"/>ſpell, which hath brought forth more abundance of ſinne in their abuſe of it.</p>
+            <p>Secondly, Iſrael being ſmitten did not turne and ſeek the Lord; juſt ſo is it with
+<hi>England</hi> at this day being ſmitten, it doth not returne.</p>
+            <p>Thirdly, Iſrael is charged with obſtinacy and impenitencie as an heinous crime and provoking ſinne, they refuſed to returne,
+<pb n="30" facs="tcp:154864:19"/>yea, are ſo farre from it as they did not ſeeke the Lord of Hoſts, and of that this might be juſtly denyed of <hi>England;</hi> but it is true (as we noted before) our people ſeeme to have hardened their faces as a rock, and they refuſe to returne, <hi>Ier.</hi>
+5.3. and although God ſet Watchmen over <hi>England,</hi> ſaying, <hi>Hearken to the ſound of the trumpet: yet they ſaid, We will not hearken.</hi> Jer. 6.17.</p>
+            <p>Fourthly and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ually, againſt Iſrael thus ſmitten the Lord did continue his anger, &amp;c. and juſt thus is it with <hi>England,</hi> the an<g ref="char:EOLhyphen"/>ger of the Lord is not turned, but his hand ſtretched out ſtill, for of us (as of them) it may be ſaid, the people turne not, &amp;c. Thus <hi>England</hi> is not ſo like Iſrael in name, nothing neere, as in ſtate of ſinne and miſery.</p>
+            <p>But ſome may ſay,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> for all this it is better with <hi>England</hi> then with Iſrael; for we doe ſeeke the Lord of Hoſts daily, and hum<g ref="char:EOLhyphen"/>ble our ſoules before him in our monethly faſts, confeſſe our ſinnes, and ſeek mercy at his hands.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, I ſhould be glad to be miſtaken, but (as
+<hi>Ieromiah</hi> ſprakes of himſelfe) ſo may the Miniſters of God ſay of the gene<g ref="char:EOLhyphen"/>rality of our people with griefe, we hearkened and beard, <hi>but they ſpake not aright:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 6.</note> 
+               <hi>no man repented him of his wickedneſſe ſaying, What have I done? every one turned to his courſe, as the horſe ruſheth into the battell:</hi> and who but he that is wilfully blind doth not ſee the ſinnes which uſually ſhew themſelves openly, as pride, drun<g ref="char:EOLhyphen"/>kenneſſe, not only in men, but in women alſo, and odious thing that makes them (as the Son of <hi>Syrach</hi> notes) that they cover not t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> own ſhame; Scripture good enough (although <hi>Apocrypha</hi>) f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch a purpoſe; oaths and blaſphemies as common and feare<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as ever before our ſmiting; the like may be ſaid of other
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es.</p>
+            <p>Secondly, but admit it were not ſo, that our people did not de<g ref="char:EOLhyphen"/>clare their ſinne as Sodome,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> but hide it rather: What ſhall we ſay unto the heavy hand of God upon us? and of his anger which is towards us ſtill? If his ſmiting had its end, he would make an end of ſmiting; for nationall turning would turne away natio<g ref="char:EOLhyphen"/>nall wrath from the nation: and although ſinne be a high wall of ſeparation, yet repentance would breake it downe. <hi>Ier.</hi> 18.9. if the nation did truly repent, the Lord would repent of the evill; if <hi>England</hi> did turne, God would turne his judgements into mer<g ref="char:EOLhyphen"/>cie, but while he goeth on in anger and puniſhment, it proveth
+<pb n="31" facs="tcp:154864:19"/>that we goe on in ſinne: when a wiſe and tender-hearted Chi<g ref="char:EOLhyphen"/>rurgion continueth his corroſives, yea, doth ſtill launce, cauterize, and take off now an arme, and then a legge, you may be ſure the child, or patient is yet in an ill caſe; if you ſhould ſee a loving fa<g ref="char:EOLhyphen"/>ther lay on his ſonne, and bruiſe, yea breake the very bones of his owne child, you could not but thinke there is ſome great fault committed; if that ſhould not alwayes hold, yet this is certain, our heavenly Father hath no paſſion to tranſport him, nor doth he afflict willingly, man doth ſufer for his ſinne: ſuch an effect as puniſhment on a nation doth infallibly conclude ſuch a cauſe as ſinne: and the Lord doth manifeſtly reveale his wrath from Hewen againſt our ſinnes, for he hath drawne two ſwords at once againſt the nation; and whereas of the two, that of warre is the worſt, yea the heavieſt of God his ſore puniſhments, Civill warre is of all warres the worſt; In which (as the Latine Orator ſaid)
+<hi>in bellis civilibus omnia ſunt miſera, ſed nihil miſerius, quàm ipſa victoria;</hi> for as it is ſaid of K. <hi>Ed.</hi> the ſecond <hi>Tuno verè victus quando tot vicit milites prudentes.</hi> In theſe warres although every thing be unhappy, yet nothing more miſerable then victory it ſelfe, becauſe by victory ſuch a body doth overcome it ſelfe: Theſe heavy judgements bring with them a ſad report of wrath, as he that writes of ſtrange Graſhoppers that did depopulate <hi>England,</hi> which had written upon the one wing in black letters <hi>ira,</hi> and upon the other <hi>Dei:</hi> how truly he reports that, I ſtand not to avouch; but theſe judgements have <hi>ira Dei,</hi> wrath, and wrath of God, as it were written upon their wings, and ſuch wrath as will depopulate and ruine the land, if the wrath be not appeaſed and theſe judgements removed; for theſe diviſions are fatall to this Iland, and will be its infallible ruine. <hi>England</hi> being as a great and ſtrong body that will not dye, unleſſe it kill it ſelfe; our Lord himſelfe hath ſaid, <hi>A Kingdome divided againſt it ſelfe cannot ſtand:</hi> and as the land was darkned when <hi>Ephraim</hi> was againſt <hi>Manaſſeh,</hi> and <hi>Manaſſeh</hi> againſt <hi>Ephraim, Iſai.</hi> 7.9,
+10: ſo is our land under this kind of ſmiting, in which the Lord doth chaſtiſe us with Scorpions and not with whips, with deſtroying ſwords and not with chaſtiſing rods.</p>
+            <p>Thirdly, but (for further conviction, and neerer Application of this Uſe) it is granted that we doe keepe dayes of Humiliati<g ref="char:EOLhyphen"/>on, and we ſeek the Lord, &amp;c. And admit Iſrael did not ſo much,
+<pb n="32" facs="tcp:154864:20"/>although there were (no doubt) among them that did, unto whom (as the moſt Expoſitors thinke) the former cordials were ſent, howſoever this is not enough to take off this charge; for un<g ref="char:EOLhyphen"/>der ſuch ſmiting as is now upon us hypocriticall Iſrael might ſeek unto the Lord for helpe, as <hi>Pſal.</hi> 78.34. where it is ſaid of them, That <hi>when he ſlew them, then they ſought him: and they retur<g ref="char:EOLhyphen"/>ned, and enquired early after God And they remembred that God was their rock:</hi>
+               <note place="margin">Ver. 35.</note> 
+               <hi>and the high God their Redeemer. Never theleſſe they did ſlatter him with their mouth:</hi>
+               <note place="margin">Ver.
+6.</note> 
+               <hi>and they lied unto him with their tongues. For their heart was not right with him: neither were they ſtedfast in his Covenant.</hi>
+               <note place="margin">Ver. 37.</note> There is much deceit in ſuch conſtrat<g ref="char:EOLhyphen"/>ned turning and ſeeking God. The faithfull Miniſters of God, who have occaſion to viſit many on their ſick beds, and when the hand of God is heavie upon them, find by ſad experience how men will at ſuch times flatter with their lips, when their heart is not right; they will ſigh, groane, and ſometime weep abun<g ref="char:EOLhyphen"/>dantly in the confeſſion of their ſins, and promiſe amendment; it God will pleaſe to ſpare them; but hardly one of ten (I had al<g ref="char:EOLhyphen"/>moſt ſaid of twenty, it may be, an hundreth) that remaineth ſtedfaſt in thoſe reſolutions, if they doe recover: For this tur<g ref="char:EOLhyphen"/>ning and ſeeking God was not free, but rather forced by the whip and ſmart: and as <hi>Chryſ.</hi> obſerved long ſince,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſ in Matt, <hi>6.17.</hi>
+               </note> He that is made good by conſtraint, by neceſſity, he is never good; (as you ſhall ſee) for being looſed from that conſtraint, he doth re<g ref="char:EOLhyphen"/>turne againe unto his own diſpoſition: and the reaſon is mani<g ref="char:EOLhyphen"/>feſt, his affection is not changed, only his action conſtrainedly in<g ref="char:EOLhyphen"/>termitted. But the bulk and body of the people of this land come farre ſhort of this, and ſeeme rather to come home to Iſrael, who did not ſo much as ſeeke the Lord of Hoſts, &amp;c. they obſerve not theſe dayes of Humiliation unto this end: at leaſt, this is certain, they turne not to him that ſmiteth them; and the better to cleare this, I pray note the manner of ſpeaking here, it is ſaid they returned not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad</hi> (as one obſerveth on the Text) they did not returne unto him.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>i.e.</hi> they did not repent, and although they ſeemed to turne from their trade and wicked way, yet <hi>uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad Deum non redierunt, i.e.</hi> they did not turne truely, ſeriouſly, fully, conſtantly and cloſly, or wholly and altogether, they came not fully home, but did, as it were, ſtand ſtill in the way, and were
+<pb n="33" facs="tcp:154864:20"/>but hypocrites feigning repentance, but perſevering in their im<g ref="char:EOLhyphen"/>piety, as they <hi>Pſal.</hi> 78.36. and <hi>Iſa.</hi> Cap. 29.13. men may bring ſhadowes of turning, ceremonies of repentance: and thinke with them to flatter away the rod from their backs; and conti<g ref="char:EOLhyphen"/>nue ſtill as ſinfull as ever. Men may, and oft times doe turne, <hi>yet not to him that ſmiteth them.</hi> As for inſtance.</p>
+            <p>
+               <note place="margin">Verſum qui<g ref="char:EOLhyphen"/>dem puto, qui dolet de crimi<g ref="char:EOLhyphen"/>ne, converſum, qui dolet de a<g ref="char:EOLhyphen"/>nimi vanitate. Vertitur qui jam vult demit<g ref="char:EOLhyphen"/>tere peccatum, convertitur qui jam totus &amp; omnino verti<g ref="char:EOLhyphen"/>tur, qui jam non tantum pae<g ref="char:EOLhyphen"/>nas non timore, ſed ad bonum domini conten<g ref="char:EOLhyphen"/>dere feſt inat. De vera &amp; falſa paenitent.</note>Firſt, Some turne, but do not returne (as <hi>Auguſt</hi> hath noted) a man is ſaid to be turned, who grieveth for the offence, or crime; but he is returned, who doth bewaile the vanity of his mind, he is turned from ſin, who will part with it, he is returned, who is wholly and altogether turned: who doth not only, not feare puniſhment, but doth diligently make haſt to obſerve the good<g ref="char:EOLhyphen"/>neſſe of God. Men may ſeeme to turne from all their ſinnes, and yet not turne ſo farre as unto the Lord.</p>
+            <p>Secondly, Some turne not unto the Lord, nor yet from all their ſinnes, they ſtill keepe ſome Delilah, as <hi>Herod;</hi> they may as <hi>Saul</hi> ſlay the leane and keepe the fatt, at leaſt, keepe <hi>Agag</hi> alive, ſome ſpeciall ſinne. <hi>Now theſe turne not to him that ſmiteth,</hi> for Converſion muſt be from all ſinne.</p>
+            <p>Thirdly, Some come ſhort of both the former; <hi>for they turne not to him that ſmiteth,</hi> although it cannot be denied but that ſuch an one doth turne, yet it is either from God, to ſinne: or from one ſinne unto another. And theſe in their practiſe contra<g ref="char:EOLhyphen"/>dict what duty calleth for in returning, and truly, (as hath bin obſerved) wee have many examples of ſuch turnings, our times are turning times, hardly any in which there hath bin more tur<g ref="char:EOLhyphen"/>ning then now, for men are like weathercocks, turning about with every winde of Doctrine: ſome turne Papiſts, ſome Armi<g ref="char:EOLhyphen"/>nians, ſome turne Socinians, ſome Anabaptiſts, ſome Antinomi<g ref="char:EOLhyphen"/>ans, ſome looſe Libertines, ſome Epicures, ſome Malignants, and ſome as the dog to his vomit, and ſow to the wallowing in the mire. Some who ſeemed to have left <hi>Egypt</hi> and forſaken <hi>Babilon</hi> (as many did with <hi>Iſrael</hi>) and to have led the way in a glorious profeſſion, yet have looked back, and with <hi>Demas</hi> imbraced this preſent world.</p>
+            <p>Fourthly, You may go farther and find men yet worſe, and farther off from turning, for there is a generation of men that in practiſe and open profeſſion, in converſation and reſolution that neither ſay nor doe, returne not to God, but reſolve as they
+<pb n="34" facs="tcp:154864:21"/>
+               <hi>Ier.</hi> 44.15, 16. <hi>they will not doe what the Lord calleth for, but whatſoever thing goeth out of their owne mouth, &amp;c.</hi> they in the very height of rebellion take up armes of hoſtile oppoſition againſt that unto which this ſmiting doth ſummon them, and how fearefull the condition of ſuch incorrigible rebels, is, you may heare from many Scriptures, ſuch as <hi>Prov.</hi> 29.1.1 <hi>Sam.</hi> 2.25.</p>
+            <p>Fifthly and finally, there is yet an higher degree of averſion from this duty in another ranke of men, who are ſo farre from returning themſelves, as they labour by all meanes of evill coun<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l, corrupt example and encouragement, to abbet others in their ſinfull courſe, and to with-hold ſuch as they perceive to be bent or inclinable to returne; men ſo vile as they make it their worke to draw as many as they may from this duty: there are and not a few ſuch maſters, parents, neighbours, kindred, acquaintance, and pretended friends among us, I would there were none, or but a very few ſuch of our owne tribe, Miniſters guilty of an offence, ſo heinous in any, and moſt odious in them; unto ſuch I ſhould commend the conſideration of that of the Prophet <hi>Ieremiah, I have ſeen alſo in the Prophets of Ieruſalem an horrible thing,</hi>
+               <note place="margin">J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 23.14.</note> 
+               <hi>they commit adultery, and walke in lyes: they ſtreng then alſo the hands of evill doers, that none doth returne from his wickedneſſe,</hi> &amp;c. If you ſhall conſider how many there are that will be found faulty, and guilty in the premiſſes, it will be more then manifeſt, that what<g ref="char:EOLhyphen"/>ſoever may be done by a ſmall remnant, the body of our people turne not unto him that ſmiteth them, nor doe they ſeeke the Lord of Hoſts.</p>
+            <p>And ſo much for the Uſe of Information, and Conviction; in which I have been the more large, to make way unto the practi<g ref="char:EOLhyphen"/>call Uſes of this Doctrine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> The third Uſe of the Point is Humiliation, unto which we ſhall adde another of Exhortation, and ſo conclude. This Doctrine conſidered with the former Uſes may be just ground of Humilia<g ref="char:EOLhyphen"/>tion and mourning, a duty ſutable to the day and agreeable to the times in which we live. The day is a day of mourning and fa<g ref="char:EOLhyphen"/>ſting, the times we are caſt upon are ſinfull, ſad, and ſorrowfull times, ſuch as may make us mourne with a great and very ſore lamentation;<note place="margin">Pſal. 102.</note> and with the Prophet, to eat aſhes like bread, and mingle our drinke with weeping: yea, teares may be our meat
+<pb n="35" facs="tcp:154864:21"/>day and night,<note place="margin">Pſal. 42.3. Joel 1.12.</note> for Joy ſeemeth to be cleane withered from the ſonnes of men: if the Cauſes we have to mourne were well ob<g ref="char:EOLhyphen"/>ſerved and conſidered, they might make us bluſh and bleed, cau<g ref="char:EOLhyphen"/>ſing, if it were poſſible, rivers of teares to trickle downe our eyes. The Cauſes are many, I ſhall preſent you with ſome few, yet ſuch as if we have either the grace of Chriſtians, or the nature of men, will move us to mourning: who can thinke up<g ref="char:EOLhyphen"/>on the deſolation of <hi>Germany,</hi> without lamentation? or if we could not ſee ſo farre, caſt an eye upon <hi>Ireland</hi> neerer hand, and ſee it wallowing in its own bloud, and bleeding it ſelfe to death, unleſſe helpe come from Heaven to prevent it. What child can ſee his father ſmiting and breaking the bones of his brethren, and not weep? But if the deſolations of <hi>Germany</hi> and miſeries of
+<hi>Ireland</hi> will not affect us, let us at the leaſt behold our own ca<g ref="char:EOLhyphen"/>lamity with teares,
+<hi>England</hi> is ſmitten with ſuch a ſtroke as may move all to mourne over her that beare any true love unto her, ſhe is under one of God his ſore judgements mentioned <hi>Ezek.</hi>
+14.21. yea, the very ſoreſt of thoſe ſore judgements, the ſword in the hand of men,<note place="margin">Ezek. 14.21.</note> an heavier judgement then in the hand of a deſtroying angel; and as warre is worſe then peſtilence, ſo civill warre the worſt warre of all other, in which with every ſtroke the Kingdome doth hurt and endeavour to deſtroy it ſelfe, which is a ſad ſpectacle for ſtrangers to behold; if any of us at any time ſee a poore man in an Epilepſie or ſit of the falling ſickneſſe, lye beating himſelfe againſt the ground, biting his owne tongue, and beſtowing all his ſtrength to raiſe himſelfe up, that he might with greater violence caſt himſelfe downe againe, to the woun<g ref="char:EOLhyphen"/>ding and breaking of himſelfe, beating the breath out of his body, as it may fall out: Such a man may not onely bruiſe his fleſh, or breake his bones, but deſtroy himſelfe: could we in this caſe doe leſſe then lament this mans condition, although a meer ſtranger? or if we ſhould ſee any man ſo bereaved of ſence, or deſperately bent by delyrancy, or any other cauſe, as he ſhould wound, ſtabbe, and by all meanes endeavour to deſtroy himſelfe, one hand woun<g ref="char:EOLhyphen"/>ding the other, or both of them ſtabbing him in his own bowels, and at laſt (if not hindered) in the head, or very heart: who un<g ref="char:EOLhyphen"/>leſſe without all bowels, but muſt needs be affected much with the condition of ſuch a man; our Kingdome is at this time in the condition of a man in an Epilepſie, and doth beate, bruiſe,
+<pb n="36" facs="tcp:154864:22"/>and by all the ſtrength it hath endeavour to undoe and deſtroy it ſelfe; it is ſo delyrant by the juſt judgement of God, as it doth ſtudie its owne ruine, one hand wounding the other, and both ſtabbing it in the bowels, and at the very heart, unleſſe the Lord ſhall graciouſly prevent it. Now if there be cauſe of ſorrow to ſee one man, and a ſtranger in ſuch a condition: with what mourning ſhould we looke on ſuch a flouriſhing Kingdome in ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch a condition? who can thinke of ſo many men looſing their li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and not knowing what becommeth of their immortall ſoules (many of them as it is to be feared being unfit to dye) but muſt needes mourne? Yet this is not all the cauſe of Humi<g ref="char:EOLhyphen"/>liation and mourning, if we looke up higher from earth to Hea<g ref="char:EOLhyphen"/>ven, from men to God, we ſhall ſee further and greater cauſe of mourning, and that is, that Heaven lowreth upon us, and the God of Heaven is angry with us, <hi>his anger is not turned away, but his hand is ſtretched out ſtill:</hi> yea, by looking into the cauſe of this continued anger in a God ſo full of pittie,<note place="margin">Ez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k. 14.</note> which is the grievous ſinnes of the land, it hath grievouſly ſinned, otherwiſe he that hath ſo abounded in goodneſſe towards it, had never ſent ſo ſore a puniſhment upon it. God hath ſhewed his love towards
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> in former time more then towards any Nation, puting it as it were in his boſome, and yet he is now wrath with it, and his hand ſtretched forth ſtill to ſtrike, as if he meant to deſtroy it, and all for the tranſgreſſions of it, <hi>Doe ye thus require the Lord, O fooliſh people,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ut. 32.6.</note> 
+               <hi>and unwiſe? Is not he thy Father that hath bought thee? Hath he not made thee, and establiſhed thee?</hi>
+            </p>
+            <p>Neither are theſe all the cauſes we have of Humillation and mourning; there is this alſo, That after our provocation of God, and under his diſpleaſure and theſe deſtroying ſtrokes, the people turne not to him that ſmiteth, &amp;c. that which the Prophet here complaineth of, although the Lord have thus ſmitten us, and doth continue to declare himſelfe greatly diſpleaſed with us; yet we continue in ſinne; and provoke him to provide heavier ſtrokes for us: the day of battell and time of affliction is the fornace that ſheweth what mettall we are, whether gold or droſſe, and being droſſe we may feare to be utterly forſaken, <hi>Ier.</hi> 6.</p>
+            <p>Finally, there is yet another cauſe, and in ſome reſpect greater then the former, and this is a cauſe why we ſhould mourne, be<g ref="char:EOLhyphen"/>cauſe the Kingdome doth not mourne, we have cauſe of deepe
+<pb n="37" facs="tcp:154864:22"/>Humiliation, for that the Humiliations of the Kingdome are ſo ſlight and ſhallow in the very dayes deſtinated to humiliation and mourning; when we faſt, it is rarely ſeene or heard that we either weepe, or ſigh, if we mourne, it is with dry eyes, and it is to be feared with hard hearts, and herein our times ſeeme more hard then any. Iſrael and this people of the Jewes had many grievous ſinnes (as you have heard) in which we are as bad as they; but in this we ſeeme to be much worſe, if you looke throughout the Scripture, and in all ages of that Church, you ſhall perceive them to be of a ſofter temper; when the Lord ſent an an<g ref="char:EOLhyphen"/>gel to tell them that he would not drive out the inhabitants out of the land, <hi>Iudges</hi>
+2.4. <hi>the people</hi> hearing this <hi>lift up their voyce and wept:</hi> when the Miniſters of God told our people ſome yeares paſt of this Judgement we now ſuffer, ſome of our people have been ready to laugh, and very many of them heard it as a fable, or that which needed not be feared, or at all regarded. They when they heard of Judgement comming on the land, or being in danger could mourne, as 2 <hi>Sam.</hi> 15.23. <hi>David</hi> and his men being in danger, the ſtory ſaith that all the coun<g ref="char:EOLhyphen"/>try wept with a loud voyce, and <hi>Ioſiah</hi> hearing what was threatned, namely that they ſhould become a deſolation, &amp;c. his heart was tender, &amp; he humbled himſelf before the Lord &amp; wept, 2 <hi>Kin.</hi> 22.19. We, when we ſee theſe judgements that make way for deſolation on others, and our ſelves, yet we ſhed no teares. When the plague broke in upon the Congregation, <hi>Numb.</hi> 25.6. it is ſaid the people were weeping, but now both peſtilence and ſword are on the land, and rage in all quarters of it, yet where be the teares of the Congregation. <hi>Eſau</hi> could weepe for the loſſe of the birth-right, but in our times men mourne not for the loſſe of birth-right, or bleſſing, no not for the provocation of wrath and judgement; yea, ſuch among us as can take on for ſome out<g ref="char:EOLhyphen"/>ward loſſe or hurt, and weepe at the unkindneſſe of a friend, yet ſhedde no teares in all theſe miſeries.<note place="margin">James 4.9.</note> That exhortation of Saint
+<hi>Iames</hi> is very ſeaſonable, <hi>Be afflicted, and mourne, and weep, let your laughter be turned to mourning, and your joy to heavineſſe:</hi> in the fifth Chapt. of that Epiſtle, he exhorts rich men to weepe and howle for the miſeries that ſhall come upon them;<note place="margin">Chap. 5.1.</note> miſeries are come upon us, and we are come to humble our ſelves and mourne before the Lord for them, and our ſinnes the cauſes of theſe cala<g ref="char:EOLhyphen"/>mities
+<pb n="38" facs="tcp:154864:23"/>It is reported of the Jewes, not on their dayes of mourning, but of greateſt rejoycing, in their marriage feaſts, that they breake a glaſſe with wine in remembrance of
+<hi>Ieruſalem,</hi> and ſay, when they throw it downe, thus was <hi>Ieruſalem</hi> broken, and then what they ſpill in wine they fill with teares; if they in the times of their feaſting weep in remembrance of <hi>Ieruſalem</hi> deſtroyed ſo long before, what ſhould we doe, in the dayes of our ſolemne faſts for <hi>England</hi> now a breaking? and ready to be ruined with ſmiting? eſpecially ſeeing we ſtand here before the Lord to mourn for our ſins, and the ſins of the land, which are the cauſe of theſe our ſtripes? and truly if they when they heard that God would not drive out the inhabitants of the land, but leave them as thornes in their ſides, did lift up their voice and wept,<note place="margin">Judg. 2.3.5.</note> ſo as the place was thought worthy to be named <hi>Bochim</hi> weepers: now that God is about to deſtroy and drive out the inhabitants of the land, ſhould not we ſo weepe, as the place of our teares may be made a <hi>Bochim?</hi> ſure I am, wee may weeps much, cry long and loud before the cry of our prayers ſhould out<g ref="char:EOLhyphen"/>cry our crying ſinnes. And as this duty belongeth to us all in generall, ſo eſpecially unto ſuch as are over the reſt, whether of <hi>Iudah,</hi>
+               <note place="margin">Joel 1.14. &amp; Chap. 2.16, 17.</note> the Rulers and teachers of the people, who at ſuch times as theſe are, ought to be chiefe in this duty, and are to mourne, not only for their owne ſinnes, but (as it were) to beare the iniquity of the kingdome, which no doubt would be very acceptable in them, and in time give them occaſion with <hi>David</hi> to ſay, <hi>I thanke the ô Lord that thou haſt heard the voice of my weeping.</hi> And for the Miniſters above all others, they ſeeing how hardly the people are brought either to turne from, or mourne for their ſinnes, after theſe warnings and ſmitings, have reaſon to reſolve with <hi>Jeremiah, If ye will not heare it, my ſoule ſhall weepe in ſecret places for your pride,</hi>
+               <note place="margin">Jer. 13.17.</note> 
+               <hi>&amp;c.</hi> Could they with the ſame Prophet weep day and night for the ſin &amp; ſlain of his people (and as the Prophet <hi>Ezekiel</hi> is commanded to ſigh bitterly,<note place="margin">Jer. 9.1.</note> and unto the breaking of his loynes) it could not be altogether with<g ref="char:EOLhyphen"/>out cauſe, conſidering the ſinfull, and ſad and miſerable condition of the kingdomes, and yet alas the people are as farre from mour<g ref="char:EOLhyphen"/>ning <hi>as they are from returning to him that ſmote them.</hi> It is true of many among us which <hi>Elihu</hi> obſerveth, <hi>If they obey not they ſhall periſh by the ſword,</hi>
+               <note place="margin">Job
+36.12, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> 
+               <hi>and they ſhall dye without knowledge. Yet
+<pb n="39" facs="tcp:154864:23"/>the Hypocrites in heart heape up wrath, they cry not when he bin<g ref="char:EOLhyphen"/>deth them.</hi> Such as doe ſometimes make faire ſhewes, being ſtill inwardly impure and corrupt, do not humble themſelves under the correcting hand of God nor repenting of their ſinne, do in<g ref="char:EOLhyphen"/>creaſe and incenſe the wrath of God more againſt them, ſo farre are they from being bettered by affliction, as by their obſtinacy they do yet more provoke the anger of God againſt them. They cry not to God ſo as they might obtaine pardon, grace and help, but content themſelves with ſome formalities and outward ſhewes. <hi>Auſtin</hi> maketh mention of a ſort of fooliſh women, which did uſe to dreſſe themſelves fine, and went to the
+<hi>Capitol</hi> and ſate there all day long, and thought <hi>Iupiter</hi> was in love with them; (there are many among us that I feare) come hardly ſo farre as unto the dreſſe and outward formality of this duty, in the dayes of our humiliation, and yet thinke God is well pleaſed with their ſervice, who yet keepe themſelves cloſe unto their ſinnes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> In the laſt place, <hi>if the anger of the Lord be not turned away &amp;c. becauſe the people turne not to him that ſmiteth them;</hi> It will ſerve for Exhortation and Direction, let this move us (as ever we de<g ref="char:EOLhyphen"/>ſire the wrath of an angry God ſhould be appeaſed, the bloody ſtreakes of the deſtroying ſword ſhould be ſtayed, and the dead<g ref="char:EOLhyphen"/>ly wounds of a bleeding Kingdome ſhould be cured,) <hi>to turne to him that ſmiteth us, and ſet our ſelves to ſeeke the Lord of Hoſtes.</hi> This is the reſult of all, and the principall uſe of Text and Do<g ref="char:EOLhyphen"/>ctrine; impenitency under wrath and ſmiting cauſeth their continuance, that they may ſeaſe, let us ceaſe to ſinne and to goe on in ſinne; the Phiſition that he may recover his patient of a dangerous diſtemper, doth firſt find out and then indeavour to remove the cauſe, which is the direct way (according to the rule of his art) unto the recovery of his patient. Our ſtate is in a ſicke and dangerous, and deadly diſtemper, and this Doctrine ſheweth the cauſes; all that wiſh well unto it, that deſire to doe any thing for the recovery of it, muſt ſhew themſelves Phiſiti<g ref="char:EOLhyphen"/>ons of value, by removing the cauſes, and ſo procuring the health and happineſſe of it. You underſtand why the anger of God is <hi>not turned away, why his hand is ſtretched out ſtill.</hi> Oh therefore that we might all remove the cauſe, to the utmoſt of our ability, that if it be poſſible, the effect may ceaſe. This is the way, that
+<pb n="40" facs="tcp:154864:24"/>God himſelfe doth preſcribe in many places.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1.2, 3, 4.</note> I will name but one, and it is that in the Prophet <hi>Zechariah; The Lord hath bin ſore diſpleaſed with your fathers. Therefore ſay unto them, thus ſaith the Lord of Hoſtes, turne ye unto me ſaith the Lord of Hoſtes, And I will turne unto you, ſaith the Lord of Hoſtes. Be ye not as your fa<g ref="char:EOLhyphen"/>thers, unto whome the former Prophets cryed ſaying; thus ſaith, the Lord of Hoſtes, turne ye now from your evill wayes, and from your evill doings: but they did not heare, nor hearken unto me ſaith the Lord.</hi>
+            </p>
+            <p>Now becauſe this is a duty of great importance, and that wherein the aimes of all that are well affected to church &amp; ſtate, muſt meete, and that whereunto their indeavours ſhould tend, I ſhall propoſe a few conſiderations to preſſe this Uſe, generally upon all, and then more particularly recommend it unto ſome whom it doth more ſpecially concerne. I have not tune to in<g ref="char:EOLhyphen"/>large my ſelfe, and to urge both the branches of the Uſe, the chiefe is <hi>turning to him that ſmiteth,</hi> the other is included in it.</p>
+            <p>There are a multitude of motives which might be brought to preſſe the duty upon our people, and to move our nation and us all to turne. I name onely theſe.</p>
+            <p>Firſt the authority and power of him, unto whom you are ex<g ref="char:EOLhyphen"/>horted to turne, or of him by whom you are ſummoned, <hi>and that is the Lord of Hoſtes:</hi> you are called upon to repent and con<g ref="char:EOLhyphen"/>vert, not by man, but by God: not ſuch a God as you can either ſhun or reſiſt; <hi>for he is the Lord of Hoſtes,</hi> ſtiled the Lord of Hoſtes in the Text, and in that place of
+<hi>Zachariah,</hi> which was mentio<g ref="char:EOLhyphen"/>ned before, he is thrice in one verſe, called <hi>the Lord of Hostes:</hi> which fearefull title might ſtrike terrour into ſuch as ſhould be found guilty of diſobedience in this duty, and ſtill refuſe to returne.</p>
+            <p>Secondly, There is a great deale of equity in this duty, for by ſinne we have turned from him, which is the cauſe of his anger, and all our miſery,<note place="margin">Iſa. 31.6.</note> it is therefore moſt equall that we returne unto him, as our Prophet doth urge this duty, in theſe words, turne ye unto him from whom the children of <hi>Iſrael</hi> have deep<g ref="char:EOLhyphen"/>ly revolted, and the equity of this duty, and the iniquity of them that yeeld not unto it, is ſet forth by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord hin ſelfe in <hi>Jeremiah,</hi>
+               <note place="margin">Jer.
+8.4.</note> 
+               <hi>Moreover, thou ſhalt ſay unto them, thus ſaith the Lord, ſhall they fall, and not ariſe? ſhall he turne away, and not returne?</hi>
+               <pb n="41" facs="tcp:154864:24"/>intimating how unreaſonable and inequitable it is for men to fall by ſinne, and when they have ſo done to refuſe to riſe and returne by repentance againe unto him from whom they fell.</p>
+            <p>Thirdly, Another motive is drawne from the <hi>terminus à quo, &amp; ad quem,</hi> from what and unto whom we are to turne, which will further open and urge the former motive. This converſion is in a word, <hi>from darkeneſſe to light, from ſinne to grace,</hi>
+               <note place="margin">Acts
+16.19.</note> 
+               <hi>from e<g ref="char:EOLhyphen"/>vill to good, from ſathan unto God.</hi> It is from the way of ſinne, which is evill, unto the way of righteouſneſſe, which is good, from that path which is foule to that which is cleane, from a courſe which is full of feare, and danger, and loſſe unto that which is comfortable, ſafe, and exceeding advantagious to all that walke in it, as you may ſee <hi>Pro.</hi> 4.11, 18. <hi>and Cap.</hi> 3.17, 22. <hi>and</hi> 11.3. <hi>Pſal.</hi>
+117.1.</p>
+            <p>So that as <hi>Bern.</hi> hath it; <hi>Dico omnes Deumignorare qui nolunt ad eum converti.</hi> I ſay all ſuch are ignorant of God, that will not turne unto him; they do not know him to be that chiefe good by whom they may be made happy, and therefore they doe turne aſide unto vaine things, that cannot profit.</p>
+            <p>Fourthly, An other Motive may be the hope we have of tur<g ref="char:EOLhyphen"/>ning away the ſtroakes from the Land, and of anger from our ſelves, and that God will be reconciled unto us; and we tur<g ref="char:EOLhyphen"/>ning to him by repentance, he will turne to us in mercy, pardon and grace, that which you have ſet forth in many places, and that before quoted <hi>Zech.</hi> 1.3. <hi>Turne ye unto me, ſaith the Lord of Hoſtes, and I will turne unto you, ſaith the Lord of Hoſtes.</hi> This is ſure, that the ſoule which doth truly turne, ſhall find God re<g ref="char:EOLhyphen"/>conciled to him. Never did any make uſe of this counſell and periſh, and the Lord will repent him of the evill, <hi>If men will hearken and turne, every man from his evill way. Ier.</hi> 26.3. <hi>Jonah</hi> 3. <hi>ult.</hi>
+            </p>
+            <p>Fifthly, For our farther incouragement, the experience we have had of the mercy of God well conſidered, might be a very ſtrong Motive to this duty. <hi>For as it was ſaid of Iſrael,</hi>
+               <note place="margin">Pſal, 148.14.</note> 
+               <hi>that they were a people neere unto him;</hi> ſo may it be ſaid of us, that we have bin a people neere unto him, and he hath ſhewed himſelfe nigh to us in all that we call upon him for, <hi>Deut.</hi> 4.7.</p>
+            <p>Sixthly, In the laſt place there is a Motive drawne from the neceſſity of our repentance, and converſion unto God. This
+<pb n="42" facs="tcp:154864:25"/>Motive lyeth in the Text and Context, <hi>the anger of God is conti<g ref="char:EOLhyphen"/>nued, his hand is ſtill ſtretched forth;</hi> yea, the Lord will ſtrike yet heavier ſtroakes, and as it followeth in the next verſe unto the Text; <hi>Therefore the Lord will cut off from Iſrael, head and taile, branch and ruſh, in one day.</hi> Seeing they will not returne, he will ſuddenly deſtroy them, the mighty and the meane, the honourable and the baſe, ruine and deſtruction ſhall ſeaſe upon them, if the people turne not; the anger of God ſhall not turne away, no his wrath will be further increaſed, his ſtroakes will be heavier then they have bin; and that black and bloody cloud which hangeth over our heads, will breake and fall upon us, if we remaine impenitent. In vaine ſhall we promiſe our ſelves pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, and looke for mercy, if we caſt off the care of our duty, although we ſeeke the Lord of Hoſtes. Faſt, Pray and thinke no<g ref="char:EOLhyphen"/>thing too much, that we hazard and lay out and beſtow, if we turne not, it will doe nothing for our ſecurity from utter ruine. That which is noted of <hi>Caeſar,</hi> when one that was up in armes againſt him, yet ſent him a crowne, at the very ſame time, but <hi>Caeſar</hi> ſent back his Crowne, with this meſſage; Let him returne firſt unto his obedience, and then the Crowne might be accep<g ref="char:EOLhyphen"/>ted. If we uſe other meanes, any meanes to obtaine favour with God, and keepe our ſelves ſtill to our ſinnes; and ſo con<g ref="char:EOLhyphen"/>tinue in rebellion, and refuſe to doe his commands, had we Crownes to dedicate to his honour, all were but vaine, unleſſe we returne firſt to our obedience. Let us therefore conſider the authority of God; who requires we ſhould return unto him: the equity of this duty, the good that may be expected in the way of mercy, if theſe will not prevaile with us, yet let the conſide<g ref="char:EOLhyphen"/>ration of the anger of the Lord of Hoſtes: the ſword in his hand which is ſtretched forth to ſtrike with ſtroakes of death, and ruine. Let this make us to reſolve even all of us to return <hi>and ſeek the Lord of Hoſtes.</hi> God judgeth the righteous, and is angry with the wicked every day. If he turne not he will whet his ſword: he hath bent his bow and made it ready; he hath alſo prepared for himſelf the Inſtruments of death, &amp;c. as the Pſalmiſt hath it, <hi>Pſal</hi> 7.12, 13. So that (as <hi>Auſtin</hi> obſerveth) <hi>quia illi no<g ref="char:EOLhyphen"/>lunt converti in melius, Deum convertunt in pejus,</hi> in as much as they will not turne better, they turne God upon that which is worſe; for <hi>Levit.</hi> 26.18. <hi>If you will not yet for all this hearken;
+<pb n="43" facs="tcp:154864:25"/>then will I puniſh you ſeven times more for your ſinnes.</hi> To conclude, conſider that patheticall paſſage of the Prophet, <hi>Ezek.</hi> 33.11. <hi>As I live, ſaith the Lord I have no pleaſure in the death of the wicked, but that the wicked turne from his way, and live: Turne ye, turne ye, for why will ye dye, O houſe of Iſrael?</hi>
+            </p>
+            <p>Now before I leave this branch of the Uſe, it will be neceſſary to adde a few things for direction unto this duty, to helpe them that are willing to put it in practiſe, but ignorant. I ſhall there<g ref="char:EOLhyphen"/>fore briefly note unto you, how we muſt turne to him that ſmi<g ref="char:EOLhyphen"/>teth in theſe foure enſuing particulars.</p>
+            <p>
+               <note place="margin">Corporli Con<g ref="char:EOLhyphen"/>verſio ſi ſola fuerit, nulla erit.</note>Firſt, ſincerely, not formally and alone in the outward man; which let it make never ſo great a ſhew, yet it commeth to no<g ref="char:EOLhyphen"/>thing, therefore <hi>Ioel</hi> 2.12, 13. it muſt be even unto God with all the heart &amp;c.</p>
+            <p>Secondly, entirely, we muſt turne from ſin, not ſome, but all; not from ſin alone, but unto God: and truth muſt aſpire unto Perfection.</p>
+            <p>Thirdly, we muſt turne ſpeedily; God calling for a duty he lookes that we ſhould ſet about it preſently; and now that the deſtroying ſword is in his hand, every man may perceive that de<g ref="char:EOLhyphen"/>layes are dangerous: <hi>Archimedes</hi> drew lines ſo long in the duſt till his City was taken, and the ſouldiers brake in upon him and ſlew him. Many that have thoughts of repentance and returning to God looſe their pretious ſoules by their ſinfull delayes.</p>
+            <p>Fourthly, I may adde to the former in the laſt place, turning ſincerely, entirely, and ſpeedily; we may returne hopefully, not doubting of mercy which is promiſed in Chriſt to all that truly turne to God at what time ſoever it is,<note place="margin">
+                  <hi>Lam. 3.40. Pſal.
+119.59.</hi> A regione no<g ref="char:EOLhyphen"/>ſtra ſuperbien<g ref="char:EOLhyphen"/>do, inobediendo, viſibilia ſequl. do, cibum veti<g ref="char:EOLhyphen"/>tum gull ando diſceſſimus: 01 ſed ad eum neceſſe eſt flendo, viſi<g ref="char:EOLhyphen"/>bilia contem<g ref="char:EOLhyphen"/>nendo at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> appe<g ref="char:EOLhyphen"/>titum carnis re<g ref="char:EOLhyphen"/>fraenando re<g ref="char:EOLhyphen"/>deamus.</note> ſee that <hi>Deut.</hi>
+4.29, 30.</p>
+            <p>And to helpe your ſelves in ſuch a purpoſe of turning, let a right courſe be taken: for this end every man muſt ſearch and try his wayes, and ſo turne; when a man hath ſeen how he hath turned from God to ſinne, he muſt the contrary way returne from ſinne to God; thus
+<hi>David</hi> thought on his wayes, and turned his feet unto Gods teſtimonies; as we goe from God by pride, diſobe<g ref="char:EOLhyphen"/>dience, following after things which are ſeene, and taſting the forbidden fruit, &amp;c. ſo we muſt turne to him weeping, obeying, contemning things viſible, and bridling the deſire of the fleſh, &amp;c. which is to returne the contrary way to that in which we
+<pb n="44" facs="tcp:154864:26"/>have gone in the courſe of ſin: becauſe we departed with joy, we muſt return with lamentation.</p>
+            <p n="1">1. And for further helpe, attendance muſt be given upon the Word,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 7.</note> which (as the Prophet <hi>David</hi> ſaith) doth convert the ſoul.</p>
+            <p n="2">2. A faithfull and powerfull Miniſtery, in which the voice of the Lord may be heard, doth work ſuch as have fallen from God to a willingneſſe again to return, as <hi>Ier.</hi>
+3.22. <hi>Returne ye backeſliding children, and I will heale your backeſlidings</hi> (ſaith the voice of God in his Word) and then they anſwer, <hi>Behold, we come unto thee, for
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ou art the Lord our God.</hi>
+            </p>
+            <p n="3">3. In the third place, another help is, adjoyning our ſelves unto ſuch as doe returne; and forſaking the company of thoſe that goe ſtill on in their treſpaſſes.
+<hi>Pſal.</hi> 119.63, 79. with <hi>ver.</hi> 115. <hi>David</hi> is for their company that feare God; and that he may keep the Commandements of his God, he doth abandon the ſociety of evill doers.</p>
+            <p n="4">
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> inter
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n pro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e muta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gruum.
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> etia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corpora<g ref="char:EOLhyphen"/>liter eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt. ubi qui qui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ece.
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i. d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> H<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>l. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>4. Finally, (if need be) the change of place, which ſometimes is of neceſſity, that a man may be rid of evill company, and that he may be freed from ſuch temptations as will ſtill keep him in ſome one or other evill way.</p>
+            <p n="5">5. Laſtly, becauſe Converſion and Repentance are the work and gift of God, unto him we muſt ſeek by Prayer and Supplication through Chriſt, that he would pleaſe to work that in us which he requireth of us: <hi>Ier.</hi> 31.18. <hi>Ephraim</hi> there doth thus pray to God,
+<hi>Turne thou me, and I ſhall be turned, thou art the Lord my God.</hi> Thus let every one under this chaſtiſement, being as a bul<g ref="char:EOLhyphen"/>lock unaccuſtomed to the yoke, cry to God, <hi>Turne thou me, and I ſhall be turned,</hi> &amp;c. and all of us as the Church, <hi>Lam.</hi> 5.21.
+<hi>Turne thou us unto thee, O Lord, and we ſhall be turned.</hi> And when we pray we muſt put forth our endeavours,<note place="margin">V tia <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>verſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quiſi
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cum homi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> habent, quando autem. ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elluntur a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rior<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> virtute cenſurgu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi>
+               </note> and arme our ſelves againſt oppoſition, and improve ſuch meanes as ſerve unto this end. Some doe commend unto men converting this direction, firſt, to take off themſelves from the action of ſin, and then to deal with the appetite and cogitation; howſoever they muſt looke for ſtrong oppoſition; for vices before Converſion are, as it were, at peace with a man, but being oppoſed and expelled, they riſe up with more ſtrength and violence.</p>
+            <p>Now in the laſt place, this Doctrine may be applied for Ex<g ref="char:EOLhyphen"/>hortation
+<pb n="45" facs="tcp:154864:26"/>and ſpeciall direction to our Parliament Worthies, up<g ref="char:EOLhyphen"/>on whom it layeth a double charge, particularly for themſelves, and generally for the whole Kingdome. If impenitencie and continuance in ſin cauſe the continuance of anger, and doth pull downe more and heavier ſtrokes upon our Nation, then it muſt be their endeavour to remove this cauſe of anger, that the anger may be diverted, and this heavy judgement removed from the Kingdome;<note place="margin">Iſai. 58.12.</note> this is the way for them to become repairers of the breach, and reſtorers of paths to dwell in; for if men will return, anger will ceaſe, and the quarrell would ſoone be at an end; but if the cauſe of wrath ſtill continue, we cannot expect that the deſtroying hand ſhould be drawne in, but that it ſhould be ſtretched out ſtill. Upon you therefore honourable and belo<g ref="char:EOLhyphen"/>ved this Uſe falleth with a double weight, the Doctrine requi<g ref="char:EOLhyphen"/>reth for the removing of the ſtrokes with which the land is ſmitten, and preventing of heavier ready to fall upon it, that you ſee that none of your owne ſinnes under ſmiting; that your not turning from them, doe not cauſe the anger of God to continue, and that (being Phyſitians of the State, ſuch as are in places of power) you endeavour by all poſſible meanes to cauſe the people to turne to him that ſmiteth them; that removing the cauſe whereſoever you finde it, this miſerable effect may ceaſe; turning your ſelves from whatſoever may be found to be a part of the cauſe, and endeavouring, as much as in you lyeth, to cauſe the whole Kingdome to turne from their ſinnes alſo, that anger may be appeaſed, and ſmiting ſtayed and ceaſe.</p>
+            <p>It is not to be doubted, it hath been your deſire and care; and is your endeavour to make others to returne, you have uſed meanes to that end, and have therefore ſent Miniſters into many places, where they were wanting, to call upon men to returne; and to remove ſuch as have been idle, unfaithfull, and ſcandalous; <hi>And yet his anger is not turned away,</hi> &amp;c. the people for all this doe not turn to him that ſmiteth them. I ſhould humbly preſent unto your wiſe conſiderations, whether ſomething further be not to be done to cauſe the people to returne. <hi>Salomon, Prov.</hi> 29.19. telleth you that a ſervant will not be corrected with words. Men of a ſervile diſpoſition will not be amended by ſo eaſie meanes as bare inſtru<g ref="char:EOLhyphen"/>ctions, be they never ſo wholſome and good: They will not
+<pb n="46" facs="tcp:154864:27"/>anſwer the expectation of ſuch as ſhall beſtow their paines upon them. And the Holy Ghoſt, <hi>Iude</hi> ver. 22, 23. ſheweth, that men muſt be variouſly dealt with according to their various diſpoſiti<g ref="char:EOLhyphen"/>on. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd of ſome</hi> (ſaith he) <hi>have compaſſion, making a difference. And others ſave with feare, pulling them out of the fire.</hi> Compaſſi<g ref="char:EOLhyphen"/>on is to be uſed towards ſome, and ſeverity towards others, that (if it be poſſible) they may be pulled out of the fire; men muſt be dealt with for the ſaving of their ſoules, as Chirurgions are wont to deale with their Patients for the ſaving their lives, if lenitives, and more gentle meanes will not ſerve; corroſives, cauterizings, and the like muſt be uſed. God himſelfe doth take the rod into his hand, when the Word is contemned; and if ligh<g ref="char:EOLhyphen"/>ter ſtrokes will not ſerve, he hath heavier<g ref="char:punc">▪</g> blowes for thoſe that be impenitent. That the people may be brought to returne, in<g ref="char:EOLhyphen"/>ſtructions and corrections muſt be uſed; Magiſtrate and Miniſter, the Word and Sword in m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be joyned; there are many grievous ſinnes among us, which have provoked the wrath of God againſt the Land; and from which the people ſhould turne, that his an<g ref="char:EOLhyphen"/>ger may be turned a way, and his deſtroying hand taken off from the Nation; many that have been complained off
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y others, that I have no time nor intention to name, I ſhall onely repreſent ſome few, which are more common and obvious, and with<g ref="char:EOLhyphen"/>all more impudent and ſcandalous, humbly intreating that ſome courſe, which ſeemeth beſt to your wiſedomes, may be uſed to ſuppreſſe them, and to cauſe the people, if it be poſſible, to turn from them: as,</p>
+            <p>Firſt, the great neglect of the duty of theſe daies of Humiliation, which many (eſpecially in the Countrey) do not only ſlight and diſ-regard, but abuſe &amp; profane, ſpending the day, or a great part of it in Alehouſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Tavernes, or about their worldly imployment, as if it were indifferent to come or not to come to the publike Aſſemblies, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſeek or to provoke the Lord of Hoſts.</p>
+            <p>Secondly, the horrible profanation of the glorious, and dread<g ref="char:EOLhyphen"/>full Name of God, by execrations, blaſphemies, and bloudy oaths, a ſinne that doth exc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edingly abound, and under which the land doth grievouſly mourne.</p>
+            <p>Thirdly, The ſottiſh, and ſwiniſh ſinne of drunkenneſſe, by which men and women make themſelves like beaſts rather then
+<pb n="47" facs="tcp:154864:27"/>Chriſtians, and yet in theſe times of ſmiting it doth ſo abound, as hardly can men walk the ſtreets, but to their griefe they ſhall ſee of both ſexes, reele and vomit in a brutiſh manner without controule.</p>
+            <p>Fourthly, the hatefull ſinne of pride,<note place="margin">Iſai. 3.16, 17, 18, &amp;c.</note> eſpecially of women, againſt whom our Prophet hath ſpent a good part of a Chapter; and elegantly ſet forth the levitie and vanitie of the women of his time, and withall how this ſinne did provoke God, and pull downe ſuch a judgement as this land is under; for he doth threa<g ref="char:EOLhyphen"/>ten warre, and declare that theſe men ſhould fall by the ſword, and their mighty men in the warre, ver. 25. yet ſome among us, (as if they durſt out-dare Heaven it ſelfe) doe come into the preſence of an angry God in the dayes of Humiliation with naked breſts and ſuch vaine attire as doe openly diſcover that lightneſſe and wantonneſſe which is ſhamefull and unſuffe<g ref="char:EOLhyphen"/>rable.</p>
+            <p>Fifthly, there are many other ſinnes, ſuch as Sabbath-breaking, oppreſſion, &amp;c. of which I thought to have ſpoke ſomething, if the time would have given leave; but I ſhall onely name one thing more, which might much further this worke, and that is, that ſome courſe may be taken for the purging of the Magiſtracy, that as ſcandalous Miniſters ſo ill Juſtices and ſcandalous Magi<g ref="char:EOLhyphen"/>ſtrates may be removed, and thoſe that be zealous and pious put in their places: for there will be little hope (if ſinne be ſet up to correct vice, and they that turne from God themſelves, ſhall ſtand in the places of thoſe that ſhould cauſe others to turne) that the worke of Reformation will ever goe forward, the former or other ſinnes be ſuppreſſed, and the land purged of them. A faith<g ref="char:EOLhyphen"/>full Magiſtracy, and a pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nefull Miniſtery may doe much more to<g ref="char:EOLhyphen"/>gether, then either of them can do apart. I beſeech you, that ſome courſe may be taken, ſuch as to your wiſdomes may ſeeme beſt, to put life into Lawes and Ordinances, that they may not be ſuf<g ref="char:EOLhyphen"/>fered to ſleep, and wicked men to ſinne: but that they may be conſtrained to breake off theſe ſinnes which doe ſo highly pro<g ref="char:EOLhyphen"/>voke God, and ſo much hinder our Peace. It is noted of King <hi>Joſiah,</hi> that having made a Covenant to walk before the Lord,<note place="margin">2 Chro. 34.31. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and to keep his Commandements, &amp;c. he cauſed all that were pre<g ref="char:EOLhyphen"/>ſent or were found in Jeruſalem and
+<hi>Benjamine</hi> to ſtand to it, <hi>i. e.</hi>
+               <pb n="48" facs="tcp:154864:28"/>(as ſome read and expound it) he conſtrained them by Royall Power and Authoritie &amp;c. this is the way to remove the cauſe of our miſery, and to ſave your ſelves and the Nation, at leaſt, to diſcharge your owne duty, to performe a moſt acceptable ſervice to your God, and therefore in the words of <hi>David</hi> unto <hi>Salomon</hi> (when he had ſhewed his care and preparation for the building the houſe of the Lord, and the worke that was before him) let me make bold to exhort you to this duty, and ſue to God for ſucceſſe,
+<hi>Ariſe therefore,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. 22.16.</note> 
+               <hi>and be doing, and the Lord be with</hi> you.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
